@@ -7,12 +7,13 @@ app = Flask(__name__)
 api = Api(app)
 
 class HelloWorld(Resource):
-    def get(self):
-        return {"message": "Please append a /videoId to the url of the API"}
-
-    def post(self, videoId):
+    def get(self, videoId):
         srt = YouTubeTranscriptApi.get_transcript(videoId,languages=['en'])
         return jsonify(srt)
+
+    # def post(self, videoId):
+    #     srt = YouTubeTranscriptApi.get_transcript(videoId,languages=['en'])
+    #     return jsonify(srt)
 
 api.add_resource(HelloWorld, "/hello/<string:videoId>")
 
