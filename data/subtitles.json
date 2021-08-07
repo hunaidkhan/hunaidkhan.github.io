@@ -1,0 +1,4847 @@
+[
+    {
+        "text": "for some reason i decided to challenge",
+        "start": 0.08,
+        "duration": 4.16
+    },
+    {
+        "text": "kevin powell who's literally the king of",
+        "start": 1.92,
+        "duration": 3.12
+    },
+    {
+        "text": "css",
+        "start": 4.24,
+        "duration": 3.36
+    },
+    {
+        "text": "to a css battle am i going to lose",
+        "start": 5.04,
+        "duration": 4.479
+    },
+    {
+        "text": "probably but is it going to be fun",
+        "start": 7.6,
+        "duration": 4.56
+    },
+    {
+        "text": "you betcha the rules are pretty simple",
+        "start": 9.519,
+        "duration": 4.481
+    },
+    {
+        "text": "all we're going to do is try to complete",
+        "start": 12.16,
+        "duration": 3.84
+    },
+    {
+        "text": "the css battle that we're given in 10",
+        "start": 14.0,
+        "duration": 2.96
+    },
+    {
+        "text": "minutes or less",
+        "start": 16.0,
+        "duration": 3.119
+    },
+    {
+        "text": "the very first person to complete it 100",
+        "start": 16.96,
+        "duration": 4.159
+    },
+    {
+        "text": "wins and if we both run out of time",
+        "start": 19.119,
+        "duration": 3.681
+    },
+    {
+        "text": "whoever's the closest to 100",
+        "start": 21.119,
+        "duration": 3.281
+    },
+    {
+        "text": "at the end of the time is the winner",
+        "start": 22.8,
+        "duration": 3.12
+    },
+    {
+        "text": "just in case you don't know me my name",
+        "start": 24.4,
+        "duration": 3.039
+    },
+    {
+        "text": "is kevin and i'm really looking forward",
+        "start": 25.92,
+        "duration": 2.48
+    },
+    {
+        "text": "to this kyle",
+        "start": 27.439,
+        "duration": 3.361
+    },
+    {
+        "text": "challenge me to this uh css battle and",
+        "start": 28.4,
+        "duration": 3.52
+    },
+    {
+        "text": "i'm really looking forward to it i",
+        "start": 30.8,
+        "duration": 1.52
+    },
+    {
+        "text": "really",
+        "start": 31.92,
+        "duration": 2.4
+    },
+    {
+        "text": "enjoy css and i think it's gonna be a",
+        "start": 32.32,
+        "duration": 3.6
+    },
+    {
+        "text": "lot of fun uh",
+        "start": 34.32,
+        "duration": 3.6
+    },
+    {
+        "text": "i'm a little bit nervous to be honest i",
+        "start": 35.92,
+        "duration": 3.84
+    },
+    {
+        "text": "feel like kyle has nothing to lose on",
+        "start": 37.92,
+        "duration": 3.28
+    },
+    {
+        "text": "this you know he's like oh kevin knows",
+        "start": 39.76,
+        "duration": 2.88
+    },
+    {
+        "text": "what he's doing with css",
+        "start": 41.2,
+        "duration": 3.519
+    },
+    {
+        "text": "so if he wins i just look silly but if",
+        "start": 42.64,
+        "duration": 3.04
+    },
+    {
+        "text": "he loses",
+        "start": 44.719,
+        "duration": 2.721
+    },
+    {
+        "text": "you know he's like oh kevin kevin's the",
+        "start": 45.68,
+        "duration": 3.84
+    },
+    {
+        "text": "king of css of course i was gonna lose",
+        "start": 47.44,
+        "duration": 3.52
+    },
+    {
+        "text": "so i'm a little bit nervous about this",
+        "start": 49.52,
+        "duration": 3.519
+    },
+    {
+        "text": "but hopefully hopefully it goes well",
+        "start": 50.96,
+        "duration": 4.64
+    },
+    {
+        "text": "uh and yeah hopefully i crush him but",
+        "start": 53.039,
+        "duration": 6.801
+    },
+    {
+        "text": "we'll see how it goes",
+        "start": 55.6,
+        "duration": 4.24
+    },
+    {
+        "text": "all right start the timer and let's go",
+        "start": 60.48,
+        "duration": 3.2
+    },
+    {
+        "text": "this one",
+        "start": 62.96,
+        "duration": 3.199
+    },
+    {
+        "text": "i think will be not too bad uh for it we",
+        "start": 63.68,
+        "duration": 3.92
+    },
+    {
+        "text": "need three divs",
+        "start": 66.159,
+        "duration": 3.921
+    },
+    {
+        "text": "and each one of those will be a triangle",
+        "start": 67.6,
+        "duration": 3.12
+    },
+    {
+        "text": "so",
+        "start": 70.08,
+        "duration": 1.84
+    },
+    {
+        "text": "i think for all of them and we want them",
+        "start": 70.72,
+        "duration": 2.8
+    },
+    {
+        "text": "all to be the same and i'm going to",
+        "start": 71.92,
+        "duration": 2.16
+    },
+    {
+        "text": "leave the",
+        "start": 73.52,
+        "duration": 2.239
+    },
+    {
+        "text": "that's these comments let's get rid of",
+        "start": 74.08,
+        "duration": 2.8
+    },
+    {
+        "text": "the comments i'm not worried about the",
+        "start": 75.759,
+        "duration": 2.321
+    },
+    {
+        "text": "scoring i'm going to leave the",
+        "start": 76.88,
+        "duration": 2.4
+    },
+    {
+        "text": "background there but we're going to set",
+        "start": 78.08,
+        "duration": 2.32
+    },
+    {
+        "text": "the width to",
+        "start": 79.28,
+        "duration": 4.64
+    },
+    {
+        "text": "0 pixels and the height to 0 pixels and",
+        "start": 80.4,
+        "duration": 5.2
+    },
+    {
+        "text": "i think you can actually cheat here",
+        "start": 83.92,
+        "duration": 3.28
+    },
+    {
+        "text": "in this and actually just make it zero",
+        "start": 85.6,
+        "duration": 3.68
+    },
+    {
+        "text": "and it still works",
+        "start": 87.2,
+        "duration": 4.48
+    },
+    {
+        "text": "um and let's do a border i have to",
+        "start": 89.28,
+        "duration": 3.76
+    },
+    {
+        "text": "remember how to do an up arrow",
+        "start": 91.68,
+        "duration": 4.64
+    },
+    {
+        "text": "uh border left we're gonna do",
+        "start": 93.04,
+        "duration": 8.64
+    },
+    {
+        "text": "is it man okay let's just try 100 pixels",
+        "start": 96.32,
+        "duration": 10.159
+    },
+    {
+        "text": "solid transparent is it like this",
+        "start": 101.68,
+        "duration": 7.04
+    },
+    {
+        "text": "i'm going to have to i'm going to screw",
+        "start": 106.479,
+        "duration": 3.761
+    },
+    {
+        "text": "this up border",
+        "start": 108.72,
+        "duration": 4.48
+    },
+    {
+        "text": "right and then border i think the bottom",
+        "start": 110.24,
+        "duration": 4.879
+    },
+    {
+        "text": "is gonna point up",
+        "start": 113.2,
+        "duration": 5.44
+    },
+    {
+        "text": "um solid red",
+        "start": 115.119,
+        "duration": 5.521
+    },
+    {
+        "text": "ah i did get it right awesome awesome",
+        "start": 118.64,
+        "duration": 3.04
+    },
+    {
+        "text": "super okay i",
+        "start": 120.64,
+        "duration": 3.119
+    },
+    {
+        "text": "don't use this trick too often and i",
+        "start": 121.68,
+        "duration": 3.6
+    },
+    {
+        "text": "always forget how it works so we don't",
+        "start": 123.759,
+        "duration": 2.64
+    },
+    {
+        "text": "want the background it's all based on",
+        "start": 125.28,
+        "duration": 2.8
+    },
+    {
+        "text": "the border color to create a triangle in",
+        "start": 126.399,
+        "duration": 3.601
+    },
+    {
+        "text": "css the easy way we're going to be using",
+        "start": 128.08,
+        "duration": 2.799
+    },
+    {
+        "text": "borders for that",
+        "start": 130.0,
+        "duration": 2.0
+    },
+    {
+        "text": "it kind of sounds really weird but i'll",
+        "start": 130.879,
+        "duration": 2.241
+    },
+    {
+        "text": "just show you essentially we have a",
+        "start": 132.0,
+        "duration": 2.879
+    },
+    {
+        "text": "border we want it to be pretty big",
+        "start": 133.12,
+        "duration": 3.04
+    },
+    {
+        "text": "essentially as big as we want our thing",
+        "start": 134.879,
+        "duration": 4.08
+    },
+    {
+        "text": "to be so we'll say like 50 pixels",
+        "start": 136.16,
+        "duration": 4.64
+    },
+    {
+        "text": "solid and we want it to be transparent",
+        "start": 138.959,
+        "duration": 3.121
+    },
+    {
+        "text": "which is going to sound really weird",
+        "start": 140.8,
+        "duration": 3.04
+    },
+    {
+        "text": "but you just take one of the sides and",
+        "start": 142.08,
+        "duration": 3.76
+    },
+    {
+        "text": "give it a color so border",
+        "start": 143.84,
+        "duration": 4.88
+    },
+    {
+        "text": "we'll say left and we'll give it the",
+        "start": 145.84,
+        "duration": 5.36
+    },
+    {
+        "text": "color of this for example",
+        "start": 148.72,
+        "duration": 4.4
+    },
+    {
+        "text": "we want this to be the border left color",
+        "start": 151.2,
+        "duration": 3.2
+    },
+    {
+        "text": "so now you can see we have these",
+        "start": 153.12,
+        "duration": 2.64
+    },
+    {
+        "text": "triangles",
+        "start": 154.4,
+        "duration": 2.88
+    },
+    {
+        "text": "obviously i don't want the left one to",
+        "start": 155.76,
+        "duration": 3.28
+    },
+    {
+        "text": "be this color i want the bottom one",
+        "start": 157.28,
+        "duration": 3.039
+    },
+    {
+        "text": "that should give us a triangle facing",
+        "start": 159.04,
+        "duration": 3.04
+    },
+    {
+        "text": "upward so the border",
+        "start": 160.319,
+        "duration": 3.761
+    },
+    {
+        "text": "will give it a also we don't want this",
+        "start": 162.08,
+        "duration": 3.28
+    },
+    {
+        "text": "to have any width so we can say",
+        "start": 164.08,
+        "duration": 4.72
+    },
+    {
+        "text": "width of 0 8",
+        "start": 165.36,
+        "duration": 6.8
+    },
+    {
+        "text": "of zero there we go cool so that",
+        "start": 168.8,
+        "duration": 5.04
+    },
+    {
+        "text": "is that except we need it to be a bit",
+        "start": 172.16,
+        "duration": 3.439
+    },
+    {
+        "text": "wider and to do the width",
+        "start": 173.84,
+        "duration": 4.399
+    },
+    {
+        "text": "is it here that i can do that 150 that",
+        "start": 175.599,
+        "duration": 3.92
+    },
+    {
+        "text": "made it taller",
+        "start": 178.239,
+        "duration": 5.441
+    },
+    {
+        "text": "it's these ones 125",
+        "start": 179.519,
+        "duration": 7.681
+    },
+    {
+        "text": "you would do it instead and they need to",
+        "start": 183.68,
+        "duration": 4.24
+    },
+    {
+        "text": "be the same",
+        "start": 187.2,
+        "duration": 3.2
+    },
+    {
+        "text": "that looks pretty close actually so i'm",
+        "start": 187.92,
+        "duration": 3.76
+    },
+    {
+        "text": "happy with that",
+        "start": 190.4,
+        "duration": 3.04
+    },
+    {
+        "text": "okay definitely the size of our triangle",
+        "start": 191.68,
+        "duration": 3.199
+    },
+    {
+        "text": "is way off",
+        "start": 193.44,
+        "duration": 4.719
+    },
+    {
+        "text": "we need our triangle to be",
+        "start": 194.879,
+        "duration": 6.321
+    },
+    {
+        "text": "uh less big so we'll do a hundred and",
+        "start": 198.159,
+        "duration": 6.401
+    },
+    {
+        "text": "100 pixels and we'll change this to like",
+        "start": 201.2,
+        "duration": 4.0
+    },
+    {
+        "text": "negative",
+        "start": 204.56,
+        "duration": 5.84
+    },
+    {
+        "text": "71 51",
+        "start": 205.2,
+        "duration": 5.2
+    },
+    {
+        "text": "okay i see part of our problem our",
+        "start": 210.959,
+        "duration": 4.161
+    },
+    {
+        "text": "triangle needs to actually be wider",
+        "start": 212.56,
+        "duration": 5.599
+    },
+    {
+        "text": "than oh this is kind of a pain",
+        "start": 215.12,
+        "duration": 6.8
+    },
+    {
+        "text": "our triangle needs to be wider than",
+        "start": 218.159,
+        "duration": 6.401
+    },
+    {
+        "text": "it is tall i have to think about how to",
+        "start": 221.92,
+        "duration": 3.52
+    },
+    {
+        "text": "do that i i've",
+        "start": 224.56,
+        "duration": 2.239
+    },
+    {
+        "text": "gone the wrong direction with creating",
+        "start": 225.44,
+        "duration": 3.12
+    },
+    {
+        "text": "this",
+        "start": 226.799,
+        "duration": 3.841
+    },
+    {
+        "text": "yeah to get them in the middle i guess",
+        "start": 228.56,
+        "duration": 3.36
+    },
+    {
+        "text": "what we could do here is we get to say",
+        "start": 230.64,
+        "duration": 2.04
+    },
+    {
+        "text": "that it's",
+        "start": 231.92,
+        "duration": 4.879
+    },
+    {
+        "text": "position absolute",
+        "start": 232.68,
+        "duration": 7.72
+    },
+    {
+        "text": "absolute uh top",
+        "start": 236.799,
+        "duration": 6.72
+    },
+    {
+        "text": "50 left",
+        "start": 240.4,
+        "duration": 6.16
+    },
+    {
+        "text": "of 50 and",
+        "start": 243.519,
+        "duration": 7.201
+    },
+    {
+        "text": "then we could do the transform transform",
+        "start": 246.56,
+        "duration": 7.52
+    },
+    {
+        "text": "translate negative fifty percent",
+        "start": 250.72,
+        "duration": 5.2
+    },
+    {
+        "text": "negative fifty percent to get them right",
+        "start": 254.08,
+        "duration": 3.92
+    },
+    {
+        "text": "in the middle",
+        "start": 255.92,
+        "duration": 4.879
+    },
+    {
+        "text": "uh the only problem with that oh they're",
+        "start": 258.0,
+        "duration": 5.6
+    },
+    {
+        "text": "stacked the wrong way",
+        "start": 260.799,
+        "duration": 2.801
+    },
+    {
+        "text": "darn okay we can play that's fine um",
+        "start": 264.16,
+        "duration": 5.44
+    },
+    {
+        "text": "translate so that's that",
+        "start": 266.88,
+        "duration": 4.96
+    },
+    {
+        "text": "okay i'm gonna leave that there and then",
+        "start": 269.6,
+        "duration": 3.039
+    },
+    {
+        "text": "we're just gonna go",
+        "start": 271.84,
+        "duration": 2.24
+    },
+    {
+        "text": "we're just gonna use the cascade and",
+        "start": 272.639,
+        "duration": 3.12
+    },
+    {
+        "text": "keep doing it this way",
+        "start": 274.08,
+        "duration": 5.28
+    },
+    {
+        "text": "um so this one the",
+        "start": 275.759,
+        "duration": 5.44
+    },
+    {
+        "text": "my first one needs the one that needs to",
+        "start": 279.36,
+        "duration": 4.8
+    },
+    {
+        "text": "go up negative 40 percent",
+        "start": 281.199,
+        "duration": 7.201
+    },
+    {
+        "text": "whoops 40 is this one 30 maybe",
+        "start": 284.16,
+        "duration": 6.4
+    },
+    {
+        "text": "20. that one needs to go up we want uh",
+        "start": 288.4,
+        "duration": 3.12
+    },
+    {
+        "text": "60 then bigger",
+        "start": 290.56,
+        "duration": 6.24
+    },
+    {
+        "text": "negative 70. oh negative 100",
+        "start": 291.52,
+        "duration": 6.88
+    },
+    {
+        "text": "okay and then this one i guess would be",
+        "start": 296.8,
+        "duration": 3.679
+    },
+    {
+        "text": "a positive 100",
+        "start": 298.4,
+        "duration": 6.0
+    },
+    {
+        "text": "no zero no",
+        "start": 300.479,
+        "duration": 8.0
+    },
+    {
+        "text": "negative 20 negative 10",
+        "start": 304.4,
+        "duration": 4.079
+    },
+    {
+        "text": "20 was",
+        "start": 309.44,
+        "duration": 2.4
+    },
+    {
+        "text": "zero's two oh wait wait wait that's",
+        "start": 313.12,
+        "duration": 4.0
+    },
+    {
+        "text": "perfect",
+        "start": 316.24,
+        "duration": 2.72
+    },
+    {
+        "text": "perfect perfect okay i was eyeballing it",
+        "start": 317.12,
+        "duration": 3.12
+    },
+    {
+        "text": "on the side that's perfect",
+        "start": 318.96,
+        "duration": 4.959
+    },
+    {
+        "text": "ah this is just not not at all correct i",
+        "start": 320.24,
+        "duration": 5.04
+    },
+    {
+        "text": "feel like i should have just gone with",
+        "start": 323.919,
+        "duration": 6.72
+    },
+    {
+        "text": "boxes on their sides then cut them off",
+        "start": 325.28,
+        "duration": 5.359
+    },
+    {
+        "text": "[Music]",
+        "start": 331.84,
+        "duration": 3.359
+    },
+    {
+        "text": "okay i pretty much had to scrap this",
+        "start": 333.84,
+        "duration": 2.96
+    },
+    {
+        "text": "entire plan unfortunately this is this",
+        "start": 335.199,
+        "duration": 2.881
+    },
+    {
+        "text": "was wrong i got four minutes left to",
+        "start": 336.8,
+        "duration": 2.72
+    },
+    {
+        "text": "figure this out so",
+        "start": 338.08,
+        "duration": 4.72
+    },
+    {
+        "text": "instead of doing all of this junk",
+        "start": 339.52,
+        "duration": 6.8
+    },
+    {
+        "text": "no god no",
+        "start": 342.8,
+        "duration": 6.959
+    },
+    {
+        "text": "god please no no i just need to switch",
+        "start": 346.32,
+        "duration": 4.879
+    },
+    {
+        "text": "the ordering of them",
+        "start": 349.759,
+        "duration": 4.0
+    },
+    {
+        "text": "um now i would normally just actually",
+        "start": 351.199,
+        "duration": 4.081
+    },
+    {
+        "text": "fix this a different way",
+        "start": 353.759,
+        "duration": 2.961
+    },
+    {
+        "text": "but we're just going to index this",
+        "start": 355.28,
+        "duration": 2.56
+    },
+    {
+        "text": "because it's going to be faster than",
+        "start": 356.72,
+        "duration": 1.84
+    },
+    {
+        "text": "doing it",
+        "start": 357.84,
+        "duration": 3.199
+    },
+    {
+        "text": "how um you know the i think the right",
+        "start": 358.56,
+        "duration": 3.6
+    },
+    {
+        "text": "way to do it would be to",
+        "start": 361.039,
+        "duration": 2.481
+    },
+    {
+        "text": "just switch the order they are in the",
+        "start": 362.16,
+        "duration": 3.92
+    },
+    {
+        "text": "dom um and how i'm styling it here",
+        "start": 363.52,
+        "duration": 6.08
+    },
+    {
+        "text": "but this one will be 100",
+        "start": 366.08,
+        "duration": 6.72
+    },
+    {
+        "text": "and then my last of type will be a z",
+        "start": 369.6,
+        "duration": 6.4
+    },
+    {
+        "text": "index of negative 100 and",
+        "start": 372.8,
+        "duration": 5.2
+    },
+    {
+        "text": "there we go that looks perfect to me",
+        "start": 376.0,
+        "duration": 3.6
+    },
+    {
+        "text": "let's hit submit",
+        "start": 378.0,
+        "duration": 4.639
+    },
+    {
+        "text": "come on come on come on",
+        "start": 379.6,
+        "duration": 3.039
+    },
+    {
+        "text": "100 match done awesome that one wasn't",
+        "start": 383.039,
+        "duration": 3.44
+    },
+    {
+        "text": "too bad at all",
+        "start": 385.52,
+        "duration": 3.04
+    },
+    {
+        "text": "cool happy with that how much time did i",
+        "start": 386.479,
+        "duration": 4.481
+    },
+    {
+        "text": "have left",
+        "start": 388.56,
+        "duration": 2.4
+    },
+    {
+        "text": "five minutes left yes cool that one was",
+        "start": 392.16,
+        "duration": 3.44
+    },
+    {
+        "text": "good",
+        "start": 394.88,
+        "duration": 2.48
+    },
+    {
+        "text": "kevin's gonna destroy me on this one i'm",
+        "start": 395.6,
+        "duration": 3.28
+    },
+    {
+        "text": "like at a loss of what i need to do for",
+        "start": 397.36,
+        "duration": 2.8
+    },
+    {
+        "text": "this for some reason it's probably",
+        "start": 398.88,
+        "duration": 2.319
+    },
+    {
+        "text": "really obvious",
+        "start": 400.16,
+        "duration": 2.879
+    },
+    {
+        "text": "and for some reason i can't think of the",
+        "start": 401.199,
+        "duration": 4.241
+    },
+    {
+        "text": "correct technique",
+        "start": 403.039,
+        "duration": 3.6
+    },
+    {
+        "text": "because the the triangles i was",
+        "start": 405.44,
+        "duration": 4.56
+    },
+    {
+        "text": "originally going these are not uh",
+        "start": 406.639,
+        "duration": 4.4
+    },
+    {
+        "text": "what is their correct word they're not",
+        "start": 410.0,
+        "duration": 3.52
+    },
+    {
+        "text": "like 45 degree triangles",
+        "start": 411.039,
+        "duration": 5.921
+    },
+    {
+        "text": "so it's not going to line up properly",
+        "start": 413.52,
+        "duration": 3.44
+    },
+    {
+        "text": "let's just back this up a little bit and",
+        "start": 418.08,
+        "duration": 3.6
+    },
+    {
+        "text": "see where i had",
+        "start": 420.8,
+        "duration": 2.48
+    },
+    {
+        "text": "my triangles maybe we can just try to",
+        "start": 421.68,
+        "duration": 4.16
+    },
+    {
+        "text": "get close and maybe we'll be closer than",
+        "start": 423.28,
+        "duration": 5.039
+    },
+    {
+        "text": "kevin was",
+        "start": 425.84,
+        "duration": 2.479
+    },
+    {
+        "text": "okay we'll submit it's definitely not",
+        "start": 431.52,
+        "duration": 3.119
+    },
+    {
+        "text": "correct",
+        "start": 433.52,
+        "duration": 3.679
+    },
+    {
+        "text": "but maybe i'll get like 50 accurate all",
+        "start": 434.639,
+        "duration": 4.321
+    },
+    {
+        "text": "right 89.7 percent",
+        "start": 437.199,
+        "duration": 3.12
+    },
+    {
+        "text": "that's pretty good i got 20 seconds left",
+        "start": 438.96,
+        "duration": 2.799
+    },
+    {
+        "text": "let's see if we can get it slightly",
+        "start": 440.319,
+        "duration": 2.72
+    },
+    {
+        "text": "closer",
+        "start": 441.759,
+        "duration": 5.521
+    },
+    {
+        "text": "um maybe make this 120 let's see if",
+        "start": 443.039,
+        "duration": 6.321
+    },
+    {
+        "text": "that's closer than 89.7 oh that's",
+        "start": 447.28,
+        "duration": 2.72
+    },
+    {
+        "text": "definitely not closer",
+        "start": 449.36,
+        "duration": 3.279
+    },
+    {
+        "text": "what am i thinking we'll keep it with",
+        "start": 450.0,
+        "duration": 4.0
+    },
+    {
+        "text": "what we had before we only got nine",
+        "start": 452.639,
+        "duration": 3.201
+    },
+    {
+        "text": "seconds",
+        "start": 454.0,
+        "duration": 3.84
+    },
+    {
+        "text": "all right we'll just hope that kevin",
+        "start": 455.84,
+        "duration": 3.759
+    },
+    {
+        "text": "somehow didn't get this one complete and",
+        "start": 457.84,
+        "duration": 4.16
+    },
+    {
+        "text": "he somehow got less than 89.7",
+        "start": 459.599,
+        "duration": 3.841
+    },
+    {
+        "text": "i'm highly doubting it because kevin's",
+        "start": 462.0,
+        "duration": 3.12
+    },
+    {
+        "text": "really good at css but we'll see",
+        "start": 463.44,
+        "duration": 3.759
+    },
+    {
+        "text": "we have to do this circle thing over",
+        "start": 465.12,
+        "duration": 3.6
+    },
+    {
+        "text": "here essentially so i know i need an",
+        "start": 467.199,
+        "duration": 2.161
+    },
+    {
+        "text": "inner circle",
+        "start": 468.72,
+        "duration": 2.0
+    },
+    {
+        "text": "an outer circle and then just some lines",
+        "start": 469.36,
+        "duration": 2.88
+    },
+    {
+        "text": "that go through it so we're going to",
+        "start": 470.72,
+        "duration": 2.08
+    },
+    {
+        "text": "have",
+        "start": 472.24,
+        "duration": 4.6
+    },
+    {
+        "text": "two divs this is going to be our outer",
+        "start": 472.8,
+        "duration": 5.839
+    },
+    {
+        "text": "circle",
+        "start": 476.84,
+        "duration": 4.28
+    },
+    {
+        "text": "and this one is our inner circle and of",
+        "start": 478.639,
+        "duration": 4.161
+    },
+    {
+        "text": "course my ocd is kicking and we have to",
+        "start": 481.12,
+        "duration": 3.6
+    },
+    {
+        "text": "style that a little bit better",
+        "start": 482.8,
+        "duration": 4.56
+    },
+    {
+        "text": "so we're going to have a what is it our",
+        "start": 484.72,
+        "duration": 3.84
+    },
+    {
+        "text": "inner circle",
+        "start": 487.36,
+        "duration": 5.279
+    },
+    {
+        "text": "outer background is going to be",
+        "start": 488.56,
+        "duration": 7.28
+    },
+    {
+        "text": "this mustardy ugly looking color",
+        "start": 492.639,
+        "duration": 7.28
+    },
+    {
+        "text": "and border radius 50",
+        "start": 495.84,
+        "duration": 8.72
+    },
+    {
+        "text": "right i think it's 200 pixels",
+        "start": 499.919,
+        "duration": 7.041
+    },
+    {
+        "text": "width is 200 pixels there we go and we",
+        "start": 504.56,
+        "duration": 3.28
+    },
+    {
+        "text": "need to center this",
+        "start": 506.96,
+        "duration": 3.359
+    },
+    {
+        "text": "so we're just going to use our body i",
+        "start": 507.84,
+        "duration": 4.0
+    },
+    {
+        "text": "wonder if i can even do this position",
+        "start": 510.319,
+        "duration": 3.441
+    },
+    {
+        "text": "absolute",
+        "start": 511.84,
+        "duration": 5.6
+    },
+    {
+        "text": "and if i want to say like top 100 pixels",
+        "start": 513.76,
+        "duration": 5.279
+    },
+    {
+        "text": "oh i can do that okay so let's say top",
+        "start": 517.44,
+        "duration": 2.8
+    },
+    {
+        "text": "50 pixels",
+        "start": 519.039,
+        "duration": 5.681
+    },
+    {
+        "text": "left 100 pixels uh 75 pixels",
+        "start": 520.24,
+        "duration": 7.18
+    },
+    {
+        "text": "that looks dead centered",
+        "start": 524.72,
+        "duration": 3.06
+    },
+    {
+        "text": "[Laughter]",
+        "start": 527.42,
+        "duration": 2.099
+    },
+    {
+        "text": "[Music]",
+        "start": 527.78,
+        "duration": 4.54
+    },
+    {
+        "text": "looks like our square is maybe not 200",
+        "start": 529.519,
+        "duration": 4.801
+    },
+    {
+        "text": "by 200",
+        "start": 532.32,
+        "duration": 3.28
+    },
+    {
+        "text": "now it looks like it's just off so our",
+        "start": 534.32,
+        "duration": 4.0
+    },
+    {
+        "text": "top should be like 30 pixels",
+        "start": 535.6,
+        "duration": 3.84
+    },
+    {
+        "text": "maybe we have to get rid of margin",
+        "start": 538.32,
+        "duration": 3.44
+    },
+    {
+        "text": "margin 0",
+        "start": 539.44,
+        "duration": 5.36
+    },
+    {
+        "text": "and then do top 50 pixels there we go",
+        "start": 541.76,
+        "duration": 4.24
+    },
+    {
+        "text": "and our left should be",
+        "start": 544.8,
+        "duration": 4.719
+    },
+    {
+        "text": "uh 90 pixels",
+        "start": 546.0,
+        "duration": 7.04
+    },
+    {
+        "text": "nope 100 pixels oh yeah there we go",
+        "start": 549.519,
+        "duration": 4.961
+    },
+    {
+        "text": "that's definitely perfect",
+        "start": 553.04,
+        "duration": 3.68
+    },
+    {
+        "text": "so we want the parent or we can do i",
+        "start": 554.48,
+        "duration": 3.52
+    },
+    {
+        "text": "guess the background first because that",
+        "start": 556.72,
+        "duration": 2.48
+    },
+    {
+        "text": "makes sense",
+        "start": 558.0,
+        "duration": 5.36
+    },
+    {
+        "text": "body body body",
+        "start": 559.2,
+        "duration": 7.28
+    },
+    {
+        "text": "background is that",
+        "start": 563.36,
+        "duration": 6.479
+    },
+    {
+        "text": "good um and then let's just try with",
+        "start": 566.48,
+        "duration": 10.32
+    },
+    {
+        "text": "100 height 100 percent and then",
+        "start": 569.839,
+        "duration": 10.961
+    },
+    {
+        "text": "a display display grid",
+        "start": 576.8,
+        "duration": 5.44
+    },
+    {
+        "text": "place i don't know if this is gonna work",
+        "start": 580.8,
+        "duration": 3.68
+    },
+    {
+        "text": "place items",
+        "start": 582.24,
+        "duration": 4.24
+    },
+    {
+        "text": "center should work oh it did see it",
+        "start": 584.48,
+        "duration": 3.919
+    },
+    {
+        "text": "didn't work before and the height 100",
+        "start": 586.48,
+        "duration": 3.68
+    },
+    {
+        "text": "seems to be working um so i'm hoping",
+        "start": 588.399,
+        "duration": 3.841
+    },
+    {
+        "text": "that stays true",
+        "start": 590.16,
+        "duration": 4.56
+    },
+    {
+        "text": "cool okay that that's i wonder why it",
+        "start": 592.24,
+        "duration": 4.32
+    },
+    {
+        "text": "didn't work when i used the the",
+        "start": 594.72,
+        "duration": 4.16
+    },
+    {
+        "text": "place item center last time and so let's",
+        "start": 596.56,
+        "duration": 3.76
+    },
+    {
+        "text": "make this 200 by",
+        "start": 598.88,
+        "duration": 5.44
+    },
+    {
+        "text": "200 looks a little bit too big",
+        "start": 600.32,
+        "duration": 6.24
+    },
+    {
+        "text": "um but we'll do the border radius border",
+        "start": 604.32,
+        "duration": 3.759
+    },
+    {
+        "text": "radius",
+        "start": 606.56,
+        "duration": 5.68
+    },
+    {
+        "text": "50 40 not 40 50 percent",
+        "start": 608.079,
+        "duration": 4.161
+    },
+    {
+        "text": "the placement's off i think the size is",
+        "start": 612.88,
+        "duration": 3.199
+    },
+    {
+        "text": "good it's just too low",
+        "start": 614.64,
+        "duration": 3.68
+    },
+    {
+        "text": "um i could fix it another way but",
+        "start": 616.079,
+        "duration": 4.721
+    },
+    {
+        "text": "transform",
+        "start": 618.32,
+        "duration": 5.92
+    },
+    {
+        "text": "translate y",
+        "start": 620.8,
+        "duration": 5.44
+    },
+    {
+        "text": "negative 10 pixels this is where i guess",
+        "start": 624.24,
+        "duration": 3.599
+    },
+    {
+        "text": "maybe the margins would work a little",
+        "start": 626.24,
+        "duration": 2.32
+    },
+    {
+        "text": "better",
+        "start": 627.839,
+        "duration": 3.521
+    },
+    {
+        "text": "with my like negative nine oh man i'm",
+        "start": 628.56,
+        "duration": 4.24
+    },
+    {
+        "text": "going to be slightly off on this aren't",
+        "start": 631.36,
+        "duration": 3.52
+    },
+    {
+        "text": "i",
+        "start": 632.8,
+        "duration": 2.08
+    },
+    {
+        "text": "is my shape my shape isn't good it's not",
+        "start": 635.92,
+        "duration": 4.32
+    },
+    {
+        "text": "a perfect circle",
+        "start": 638.48,
+        "duration": 4.479
+    },
+    {
+        "text": "this is more of an oval okay so now",
+        "start": 640.24,
+        "duration": 5.279
+    },
+    {
+        "text": "we're going to do our inner circle",
+        "start": 642.959,
+        "duration": 3.921
+    },
+    {
+        "text": "which is technically bigger than the",
+        "start": 645.519,
+        "duration": 3.361
+    },
+    {
+        "text": "outer circle and i should have named",
+        "start": 646.88,
+        "duration": 3.199
+    },
+    {
+        "text": "these better",
+        "start": 648.88,
+        "duration": 5.04
+    },
+    {
+        "text": "got this yellow color width will say 250",
+        "start": 650.079,
+        "duration": 5.681
+    },
+    {
+        "text": "pixels",
+        "start": 653.92,
+        "duration": 5.28
+    },
+    {
+        "text": "eight to 250 pixels",
+        "start": 655.76,
+        "duration": 7.44
+    },
+    {
+        "text": "border radius 50",
+        "start": 659.2,
+        "duration": 6.48
+    },
+    {
+        "text": "and for all the divs down here we're",
+        "start": 663.2,
+        "duration": 3.6
+    },
+    {
+        "text": "going to say",
+        "start": 665.68,
+        "duration": 3.36
+    },
+    {
+        "text": "position absolute that way they overlap",
+        "start": 666.8,
+        "duration": 4.4
+    },
+    {
+        "text": "each other",
+        "start": 669.04,
+        "duration": 6.96
+    },
+    {
+        "text": "um okay interesting",
+        "start": 671.2,
+        "duration": 8.16
+    },
+    {
+        "text": "i need to put this i guess i",
+        "start": 676.0,
+        "duration": 4.48
+    },
+    {
+        "text": "just don't want to bother with my",
+        "start": 679.36,
+        "duration": 2.24
+    },
+    {
+        "text": "styling here we're going to put our top",
+        "start": 680.48,
+        "duration": 2.56
+    },
+    {
+        "text": "and left directly on our outer",
+        "start": 681.6,
+        "duration": 2.799
+    },
+    {
+        "text": "and this one's going to have its own top",
+        "start": 683.04,
+        "duration": 2.64
+    },
+    {
+        "text": "and left but this time it's going to be",
+        "start": 684.399,
+        "duration": 2.88
+    },
+    {
+        "text": "like",
+        "start": 685.68,
+        "duration": 7.2
+    },
+    {
+        "text": "25 and 75",
+        "start": 687.279,
+        "duration": 5.601
+    },
+    {
+        "text": "that line the orange up correctly that",
+        "start": 693.76,
+        "duration": 3.44
+    },
+    {
+        "text": "looks",
+        "start": 695.44,
+        "duration": 3.2
+    },
+    {
+        "text": "dead on so now we just need to put it",
+        "start": 697.2,
+        "duration": 4.16
+    },
+    {
+        "text": "behind you just",
+        "start": 698.64,
+        "duration": 4.8
+    },
+    {
+        "text": "copy this line put it up here that gives",
+        "start": 701.36,
+        "duration": 4.08
+    },
+    {
+        "text": "it behind and now we need our lines",
+        "start": 703.44,
+        "duration": 4.32
+    },
+    {
+        "text": "so we're going to create a div with a",
+        "start": 705.44,
+        "duration": 3.04
+    },
+    {
+        "text": "class of",
+        "start": 707.76,
+        "duration": 4.48
+    },
+    {
+        "text": "line there we go",
+        "start": 708.48,
+        "duration": 8.32
+    },
+    {
+        "text": "close that off and then inside of here",
+        "start": 712.24,
+        "duration": 8.08
+    },
+    {
+        "text": "dot line we want this to have 100 width",
+        "start": 716.8,
+        "duration": 4.64
+    },
+    {
+        "text": "our height is going to be",
+        "start": 720.32,
+        "duration": 4.48
+    },
+    {
+        "text": "maybe 50 pixels background is going to",
+        "start": 721.44,
+        "duration": 3.76
+    },
+    {
+        "text": "be",
+        "start": 724.8,
+        "duration": 2.0
+    },
+    {
+        "text": "this background which is the same as our",
+        "start": 725.2,
+        "duration": 5.68
+    },
+    {
+        "text": "body so let's just put that up there",
+        "start": 726.8,
+        "duration": 8.08
+    },
+    {
+        "text": "perfect perfect and um",
+        "start": 730.88,
+        "duration": 5.68
+    },
+    {
+        "text": "let's see what else do we need to do say",
+        "start": 734.88,
+        "duration": 4.399
+    },
+    {
+        "text": "top is going to be",
+        "start": 736.56,
+        "duration": 8.399
+    },
+    {
+        "text": "100 pixels width is 100",
+        "start": 739.279,
+        "duration": 5.68
+    },
+    {
+        "text": "and uh to make it so we can see this i'm",
+        "start": 745.76,
+        "duration": 3.04
+    },
+    {
+        "text": "just gonna change this to red",
+        "start": 747.839,
+        "duration": 2.56
+    },
+    {
+        "text": "temporarily",
+        "start": 748.8,
+        "duration": 3.76
+    },
+    {
+        "text": "of course i don't see it anywhere so",
+        "start": 750.399,
+        "duration": 3.921
+    },
+    {
+        "text": "maybe we change our width to 100 view",
+        "start": 752.56,
+        "duration": 2.16
+    },
+    {
+        "text": "width",
+        "start": 754.32,
+        "duration": 3.04
+    },
+    {
+        "text": "there we go that'll show okay and we can",
+        "start": 754.72,
+        "duration": 4.32
+    },
+    {
+        "text": "put it back to this correct color and it",
+        "start": 757.36,
+        "duration": 2.96
+    },
+    {
+        "text": "looks like that's way too big we'll try",
+        "start": 759.04,
+        "duration": 3.52
+    },
+    {
+        "text": "25 pixels that looks better",
+        "start": 760.32,
+        "duration": 5.12
+    },
+    {
+        "text": "and we'll start with a height of 50.",
+        "start": 762.56,
+        "duration": 4.16
+    },
+    {
+        "text": "nope",
+        "start": 765.44,
+        "duration": 4.48
+    },
+    {
+        "text": "we'll do 75",
+        "start": 766.72,
+        "duration": 6.96
+    },
+    {
+        "text": "that look lined up it looks lined up on",
+        "start": 769.92,
+        "duration": 4.8
+    },
+    {
+        "text": "the bottom but it's a little bit too big",
+        "start": 773.68,
+        "duration": 2.399
+    },
+    {
+        "text": "so maybe it's only got to be 20 pixels",
+        "start": 774.72,
+        "duration": 3.6
+    },
+    {
+        "text": "tall",
+        "start": 776.079,
+        "duration": 2.241
+    },
+    {
+        "text": "and if we move it down 80.",
+        "start": 778.48,
+        "duration": 5.84
+    },
+    {
+        "text": "there we go it looks exactly like where",
+        "start": 782.639,
+        "duration": 3.041
+    },
+    {
+        "text": "we want it to be so we just need a bunch",
+        "start": 784.32,
+        "duration": 2.959
+    },
+    {
+        "text": "of these lines",
+        "start": 785.68,
+        "duration": 3.2
+    },
+    {
+        "text": "now the fun part is we need a whole",
+        "start": 787.279,
+        "duration": 4.721
+    },
+    {
+        "text": "bunch of inner pieces um",
+        "start": 788.88,
+        "duration": 5.12
+    },
+    {
+        "text": "yeah okay so what we're gonna whoops",
+        "start": 792.0,
+        "duration": 3.6
+    },
+    {
+        "text": "what we're gonna try and do first is the",
+        "start": 794.0,
+        "duration": 2.639
+    },
+    {
+        "text": "yellow ones",
+        "start": 795.6,
+        "duration": 3.52
+    },
+    {
+        "text": "and then",
+        "start": 796.639,
+        "duration": 2.481
+    },
+    {
+        "text": "oh crap",
+        "start": 799.68,
+        "duration": 2.8
+    },
+    {
+        "text": "okay wait a second",
+        "start": 803.6,
+        "duration": 4.64
+    },
+    {
+        "text": "okay okay we're gonna have okay i should",
+        "start": 810.88,
+        "duration": 4.56
+    },
+    {
+        "text": "have given this a class from the",
+        "start": 814.32,
+        "duration": 1.6
+    },
+    {
+        "text": "beginning",
+        "start": 815.44,
+        "duration": 5.199
+    },
+    {
+        "text": "class equals circle",
+        "start": 815.92,
+        "duration": 4.719
+    },
+    {
+        "text": "circle um i don't know about 10 minutes",
+        "start": 820.88,
+        "duration": 4.88
+    },
+    {
+        "text": "on this one",
+        "start": 824.88,
+        "duration": 3.21
+    },
+    {
+        "text": "um then we're going to have a",
+        "start": 825.76,
+        "duration": 4.079
+    },
+    {
+        "text": "[Music]",
+        "start": 828.09,
+        "duration": 4.71
+    },
+    {
+        "text": "i have a big problem here that's how am",
+        "start": 829.839,
+        "duration": 5.601
+    },
+    {
+        "text": "i gonna do that",
+        "start": 832.8,
+        "duration": 2.64
+    },
+    {
+        "text": "oh man i don't know",
+        "start": 835.519,
+        "duration": 3.521
+    },
+    {
+        "text": "oh know am i gonna okay let's just try i",
+        "start": 840.399,
+        "duration": 4.401
+    },
+    {
+        "text": "can make the stripes and i don't know if",
+        "start": 843.44,
+        "duration": 4.16
+    },
+    {
+        "text": "we're gonna get this done in 10 minutes",
+        "start": 844.8,
+        "duration": 4.8
+    },
+    {
+        "text": "so now we got all of our lines the only",
+        "start": 847.6,
+        "duration": 4.0
+    },
+    {
+        "text": "thing left to do is we need to hide",
+        "start": 849.6,
+        "duration": 6.4
+    },
+    {
+        "text": "the uh green color in the middle here",
+        "start": 851.6,
+        "duration": 6.64
+    },
+    {
+        "text": "and we also need to hide our yellow",
+        "start": 856.0,
+        "duration": 4.16
+    },
+    {
+        "text": "color at the top",
+        "start": 858.24,
+        "duration": 5.039
+    },
+    {
+        "text": "so i'm going to wrap our outer",
+        "start": 860.16,
+        "duration": 6.0
+    },
+    {
+        "text": "in another div",
+        "start": 863.279,
+        "duration": 2.881
+    },
+    {
+        "text": "and we're going to call this outer wrap",
+        "start": 867.04,
+        "duration": 9.2
+    },
+    {
+        "text": "just put it inside there",
+        "start": 871.44,
+        "duration": 4.8
+    },
+    {
+        "text": "we're gonna have dot outer wrap",
+        "start": 876.32,
+        "duration": 6.8
+    },
+    {
+        "text": "overflow",
+        "start": 880.399,
+        "duration": 2.721
+    },
+    {
+        "text": "hidden that'll hide it perfect okay",
+        "start": 883.6,
+        "duration": 6.08
+    },
+    {
+        "text": "um for now i don't want to do the hidden",
+        "start": 887.279,
+        "duration": 3.041
+    },
+    {
+        "text": "though",
+        "start": 889.68,
+        "duration": 1.68
+    },
+    {
+        "text": "i'm just going to leave that blank",
+        "start": 890.32,
+        "duration": 2.4
+    },
+    {
+        "text": "because i want to just uh we'll say",
+        "start": 891.36,
+        "duration": 3.039
+    },
+    {
+        "text": "border 1",
+        "start": 892.72,
+        "duration": 4.16
+    },
+    {
+        "text": "pixel solid black just so we can see",
+        "start": 894.399,
+        "duration": 5.201
+    },
+    {
+        "text": "where this thing's at",
+        "start": 896.88,
+        "duration": 5.92
+    },
+    {
+        "text": "we're going to give it a width of say",
+        "start": 899.6,
+        "duration": 4.239
+    },
+    {
+        "text": "like 150",
+        "start": 902.8,
+        "duration": 6.96
+    },
+    {
+        "text": "180 pixels and a height of 180 pixels",
+        "start": 903.839,
+        "duration": 9.281
+    },
+    {
+        "text": "our top is going to be our top of our",
+        "start": 909.76,
+        "duration": 3.92
+    },
+    {
+        "text": "outer",
+        "start": 913.12,
+        "duration": 3.76
+    },
+    {
+        "text": "50 plus 20 so we'll do 70",
+        "start": 913.68,
+        "duration": 6.719
+    },
+    {
+        "text": "pixels and our left",
+        "start": 916.88,
+        "duration": 6.639
+    },
+    {
+        "text": "is 100 pixels okay",
+        "start": 920.399,
+        "duration": 6.321
+    },
+    {
+        "text": "is that that's a little bit too",
+        "start": 923.519,
+        "duration": 7.12
+    },
+    {
+        "text": "far pushed down so we'll try 50 pixels",
+        "start": 926.72,
+        "duration": 3.919
+    },
+    {
+        "text": "nope we need to be pushed more actually",
+        "start": 930.8,
+        "duration": 3.44
+    },
+    {
+        "text": "so 90 pixels",
+        "start": 932.24,
+        "duration": 4.959
+    },
+    {
+        "text": "not quite 90. where does 70 put us right",
+        "start": 934.24,
+        "duration": 5.44
+    },
+    {
+        "text": "there so where does 80 put us",
+        "start": 937.199,
+        "duration": 6.801
+    },
+    {
+        "text": "okay 80 put us us in a good territory",
+        "start": 939.68,
+        "duration": 4.32
+    },
+    {
+        "text": "yeah i think so and here we can get rid",
+        "start": 945.199,
+        "duration": 3.681
+    },
+    {
+        "text": "of our top",
+        "start": 948.079,
+        "duration": 5.601
+    },
+    {
+        "text": "and our left we actually know top to be",
+        "start": 948.88,
+        "duration": 6.8
+    },
+    {
+        "text": "oh wait this isn't going to work let's",
+        "start": 953.68,
+        "duration": 4.0
+    },
+    {
+        "text": "just do inner",
+        "start": 955.68,
+        "duration": 5.519
+    },
+    {
+        "text": "i can't do emit div class",
+        "start": 957.68,
+        "duration": 6.8
+    },
+    {
+        "text": "equals uh inner",
+        "start": 961.199,
+        "duration": 6.481
+    },
+    {
+        "text": "box and then",
+        "start": 964.48,
+        "duration": 4.719
+    },
+    {
+        "text": "i'm just gonna do it i need to organize",
+        "start": 967.68,
+        "duration": 3.68
+    },
+    {
+        "text": "this one a little bit uh",
+        "start": 969.199,
+        "duration": 4.56
+    },
+    {
+        "text": "so my inner box i can do it up here it",
+        "start": 971.36,
+        "duration": 3.12
+    },
+    {
+        "text": "doesn't matter",
+        "start": 973.759,
+        "duration": 4.401
+    },
+    {
+        "text": "uh whatever um dot inner",
+        "start": 974.48,
+        "duration": 7.599
+    },
+    {
+        "text": "box will have my background of",
+        "start": 978.16,
+        "duration": 7.599
+    },
+    {
+        "text": "this the height",
+        "start": 982.079,
+        "duration": 7.041
+    },
+    {
+        "text": "will be like eighty percent um",
+        "start": 985.759,
+        "duration": 6.561
+    },
+    {
+        "text": "and a margin oh you know what no",
+        "start": 989.12,
+        "duration": 5.36
+    },
+    {
+        "text": "uh position i'm gonna have to do",
+        "start": 992.32,
+        "duration": 4.759
+    },
+    {
+        "text": "position absolutely i think position",
+        "start": 994.48,
+        "duration": 5.919
+    },
+    {
+        "text": "absolute which means on this one i want",
+        "start": 997.079,
+        "duration": 4.12
+    },
+    {
+        "text": "to have a",
+        "start": 1000.399,
+        "duration": 3.041
+    },
+    {
+        "text": "position of relative to make that the",
+        "start": 1001.199,
+        "duration": 4.161
+    },
+    {
+        "text": "containing block",
+        "start": 1003.44,
+        "duration": 5.44
+    },
+    {
+        "text": "uh height and then a width of 200",
+        "start": 1005.36,
+        "duration": 6.88
+    },
+    {
+        "text": "this doesn't matter so much the width um",
+        "start": 1008.88,
+        "duration": 5.44
+    },
+    {
+        "text": "and then i can do a top",
+        "start": 1012.24,
+        "duration": 5.44
+    },
+    {
+        "text": "actually let's make this 60 maybe 60",
+        "start": 1014.32,
+        "duration": 7.519
+    },
+    {
+        "text": "and then my top here can be 20",
+        "start": 1017.68,
+        "duration": 5.76
+    },
+    {
+        "text": "these numbers are probably off that's",
+        "start": 1021.839,
+        "duration": 3.84
+    },
+    {
+        "text": "not terrible though",
+        "start": 1023.44,
+        "duration": 4.96
+    },
+    {
+        "text": "so the height maybe is 70 and then this",
+        "start": 1025.679,
+        "duration": 3.441
+    },
+    {
+        "text": "would be",
+        "start": 1028.4,
+        "duration": 5.039
+    },
+    {
+        "text": "a top of 15 then",
+        "start": 1029.12,
+        "duration": 6.48
+    },
+    {
+        "text": "everything looks like slightly slightly",
+        "start": 1033.439,
+        "duration": 3.281
+    },
+    {
+        "text": "off look it's like the whole thing",
+        "start": 1035.6,
+        "duration": 4.0
+    },
+    {
+        "text": "bounces when i'm doing that",
+        "start": 1036.72,
+        "duration": 7.199
+    },
+    {
+        "text": "like the top is off by one pixel",
+        "start": 1039.6,
+        "duration": 6.8
+    },
+    {
+        "text": "there we go that fixed that so see there",
+        "start": 1043.919,
+        "duration": 4.4
+    },
+    {
+        "text": "it's good",
+        "start": 1046.4,
+        "duration": 4.08
+    },
+    {
+        "text": "oh i know what i can do aha okay good uh",
+        "start": 1048.319,
+        "duration": 3.121
+    },
+    {
+        "text": "we're gonna okay",
+        "start": 1050.48,
+        "duration": 3.92
+    },
+    {
+        "text": "that's fine oh oh oh oh wait wait let's",
+        "start": 1051.44,
+        "duration": 4.08
+    },
+    {
+        "text": "change the background on this for a",
+        "start": 1054.4,
+        "duration": 1.84
+    },
+    {
+        "text": "second",
+        "start": 1055.52,
+        "duration": 4.32
+    },
+    {
+        "text": "i wanna see it uh boom",
+        "start": 1056.24,
+        "duration": 5.12
+    },
+    {
+        "text": "oh no this isn't gonna work okay never",
+        "start": 1059.84,
+        "duration": 3.52
+    },
+    {
+        "text": "mind i need this to be really small",
+        "start": 1061.36,
+        "duration": 2.559
+    },
+    {
+        "text": "actually",
+        "start": 1063.36,
+        "duration": 2.08
+    },
+    {
+        "text": "because i'm gonna have two circles",
+        "start": 1063.919,
+        "duration": 3.521
+    },
+    {
+        "text": "essentially i want to cut out the top",
+        "start": 1065.44,
+        "duration": 3.92
+    },
+    {
+        "text": "part so we're going to say the",
+        "start": 1067.44,
+        "duration": 4.08
+    },
+    {
+        "text": "height here is going to be like 50",
+        "start": 1069.36,
+        "duration": 3.199
+    },
+    {
+        "text": "pixels",
+        "start": 1071.52,
+        "duration": 3.84
+    },
+    {
+        "text": "and our top is going to be zero and our",
+        "start": 1072.559,
+        "duration": 5.36
+    },
+    {
+        "text": "left is going to be",
+        "start": 1075.36,
+        "duration": 2.559
+    },
+    {
+        "text": "100",
+        "start": 1078.84,
+        "duration": 5.0
+    },
+    {
+        "text": "hope not 150.",
+        "start": 1080.559,
+        "duration": 6.48
+    },
+    {
+        "text": "i put us in the right territory",
+        "start": 1083.84,
+        "duration": 6.719
+    },
+    {
+        "text": "the most part yeah that does",
+        "start": 1087.039,
+        "duration": 7.681
+    },
+    {
+        "text": "i think we'll just do 40.",
+        "start": 1090.559,
+        "duration": 6.881
+    },
+    {
+        "text": "there we go and then what i want to do",
+        "start": 1094.72,
+        "duration": 5.839
+    },
+    {
+        "text": "is i want to remove the top from this",
+        "start": 1097.44,
+        "duration": 4.88
+    },
+    {
+        "text": "and the the left from this we're going",
+        "start": 1100.559,
+        "duration": 3.921
+    },
+    {
+        "text": "to put the left down here",
+        "start": 1102.32,
+        "duration": 5.28
+    },
+    {
+        "text": "and then i want to say overflow",
+        "start": 1104.48,
+        "duration": 5.36
+    },
+    {
+        "text": "hidden that will only show us this top",
+        "start": 1107.6,
+        "duration": 4.56
+    },
+    {
+        "text": "section we get rid of that black border",
+        "start": 1109.84,
+        "duration": 3.839
+    },
+    {
+        "text": "now we just have that top section that's",
+        "start": 1112.16,
+        "duration": 2.72
+    },
+    {
+        "text": "exactly what i wanted and now i just",
+        "start": 1113.679,
+        "duration": 2.481
+    },
+    {
+        "text": "need to do the exact same thing for the",
+        "start": 1114.88,
+        "duration": 2.24
+    },
+    {
+        "text": "bottom",
+        "start": 1116.16,
+        "duration": 2.639
+    },
+    {
+        "text": "this is where i wanted my yellow lines",
+        "start": 1117.12,
+        "duration": 6.72
+    },
+    {
+        "text": "to be a single circle",
+        "start": 1118.799,
+        "duration": 5.041
+    },
+    {
+        "text": "i almost feel like i'm mucked up and",
+        "start": 1124.48,
+        "duration": 3.04
+    },
+    {
+        "text": "that this shouldn't be one div that i",
+        "start": 1126.0,
+        "duration": 3.039
+    },
+    {
+        "text": "need one div on the top and one div on",
+        "start": 1127.52,
+        "duration": 2.399
+    },
+    {
+        "text": "the bottom for those",
+        "start": 1129.039,
+        "duration": 3.921
+    },
+    {
+        "text": "instead of two separate ones",
+        "start": 1129.919,
+        "duration": 7.921
+    },
+    {
+        "text": "uh kevin you screwed it up because",
+        "start": 1132.96,
+        "duration": 4.88
+    },
+    {
+        "text": "i want this to be a big circle",
+        "start": 1138.08,
+        "duration": 4.4
+    },
+    {
+        "text": "that has things overlapping it but i",
+        "start": 1145.039,
+        "duration": 3.801
+    },
+    {
+        "text": "have like an overflow of hidden or",
+        "start": 1147.12,
+        "duration": 4.24
+    },
+    {
+        "text": "something",
+        "start": 1148.84,
+        "duration": 5.079
+    },
+    {
+        "text": "i think i'm mucked up or you know what",
+        "start": 1151.36,
+        "duration": 3.84
+    },
+    {
+        "text": "maybe i didn't maybe i didn't",
+        "start": 1153.919,
+        "duration": 3.441
+    },
+    {
+        "text": "maybe not yet i don't i don't think i",
+        "start": 1155.2,
+        "duration": 4.64
+    },
+    {
+        "text": "have enough time to fix it though",
+        "start": 1157.36,
+        "duration": 5.76
+    },
+    {
+        "text": "i don't know if i started my timer",
+        "start": 1159.84,
+        "duration": 4.48
+    },
+    {
+        "text": "i didn't start my timer i don't even",
+        "start": 1163.12,
+        "duration": 3.28
+    },
+    {
+        "text": "know how much time i have left ah",
+        "start": 1164.32,
+        "duration": 4.56
+    },
+    {
+        "text": "okay let's change my background color to",
+        "start": 1166.4,
+        "duration": 3.68
+    },
+    {
+        "text": "yellow",
+        "start": 1168.88,
+        "duration": 6.64
+    },
+    {
+        "text": "uh on here is yellow the right idea",
+        "start": 1170.08,
+        "duration": 5.44
+    },
+    {
+        "text": "yeah yellow this guy up here is going to",
+        "start": 1177.36,
+        "duration": 4.559
+    },
+    {
+        "text": "get a background color",
+        "start": 1180.4,
+        "duration": 4.56
+    },
+    {
+        "text": "no that's yellow yeah",
+        "start": 1181.919,
+        "duration": 3.041
+    },
+    {
+        "text": "i know what i want to do now",
+        "start": 1186.0,
+        "duration": 3.12
+    },
+    {
+        "text": "i really mucked it up though the only",
+        "start": 1189.679,
+        "duration": 3.681
+    },
+    {
+        "text": "final step that we have left is to",
+        "start": 1192.0,
+        "duration": 2.0
+    },
+    {
+        "text": "remove",
+        "start": 1193.36,
+        "duration": 3.92
+    },
+    {
+        "text": "the yellow so that'll be easy this we",
+        "start": 1194.0,
+        "duration": 6.4
+    },
+    {
+        "text": "need just one wrapper for",
+        "start": 1197.28,
+        "duration": 3.12
+    },
+    {
+        "text": "equals i",
+        "start": 1200.799,
+        "duration": 6.561
+    },
+    {
+        "text": "w copy this",
+        "start": 1204.84,
+        "duration": 6.839
+    },
+    {
+        "text": "div and we'll say iw",
+        "start": 1207.36,
+        "duration": 8.319
+    },
+    {
+        "text": "and we'll say height is 200 pixels",
+        "start": 1211.679,
+        "duration": 8.801
+    },
+    {
+        "text": "width is 200 pixels and overflow",
+        "start": 1215.679,
+        "duration": 8.48
+    },
+    {
+        "text": "hidden top 50 pixels",
+        "start": 1220.48,
+        "duration": 7.439
+    },
+    {
+        "text": "left 50 pixels is that what we used for",
+        "start": 1224.159,
+        "duration": 4.961
+    },
+    {
+        "text": "our inner",
+        "start": 1227.919,
+        "duration": 4.24
+    },
+    {
+        "text": "where's our inner at uh so top and left",
+        "start": 1229.12,
+        "duration": 3.679
+    },
+    {
+        "text": "for",
+        "start": 1232.159,
+        "duration": 3.681
+    },
+    {
+        "text": "these numbers",
+        "start": 1232.799,
+        "duration": 3.041
+    },
+    {
+        "text": "and we'll do 250 250",
+        "start": 1236.559,
+        "duration": 5.36
+    },
+    {
+        "text": "we actually want this to be slightly",
+        "start": 1240.72,
+        "duration": 3.04
+    },
+    {
+        "text": "less so we'll do",
+        "start": 1241.919,
+        "duration": 6.161
+    },
+    {
+        "text": "50 here and height of 225",
+        "start": 1243.76,
+        "duration": 8.0
+    },
+    {
+        "text": "and here we'll do a",
+        "start": 1248.08,
+        "duration": 3.68
+    },
+    {
+        "text": "bottom of 50 pixels",
+        "start": 1252.08,
+        "duration": 3.599
+    },
+    {
+        "text": "100 pixels no no no no why is this not",
+        "start": 1255.84,
+        "duration": 3.6
+    },
+    {
+        "text": "working",
+        "start": 1258.559,
+        "duration": 2.801
+    },
+    {
+        "text": "oh we need to reduce our height we'll do",
+        "start": 1259.44,
+        "duration": 3.28
+    },
+    {
+        "text": "a height of",
+        "start": 1261.36,
+        "duration": 5.04
+    },
+    {
+        "text": "200 115.",
+        "start": 1262.72,
+        "duration": 7.36
+    },
+    {
+        "text": "there we go it's not quite right",
+        "start": 1266.4,
+        "duration": 7.12
+    },
+    {
+        "text": "our circle is now off a little bit",
+        "start": 1270.08,
+        "duration": 6.959
+    },
+    {
+        "text": "our left should be 50",
+        "start": 1273.52,
+        "duration": 8.32
+    },
+    {
+        "text": "60 70.",
+        "start": 1277.039,
+        "duration": 4.801
+    },
+    {
+        "text": "what happened i'm just going to submit",
+        "start": 1283.44,
+        "duration": 3.28
+    },
+    {
+        "text": "it because i'm out of time but we'll see",
+        "start": 1284.96,
+        "duration": 4.0
+    },
+    {
+        "text": "how far off i am",
+        "start": 1286.72,
+        "duration": 5.6
+    },
+    {
+        "text": "98 we'll take it let's just add a border",
+        "start": 1288.96,
+        "duration": 5.199
+    },
+    {
+        "text": "uh for now my idea here is then i could",
+        "start": 1292.32,
+        "duration": 3.12
+    },
+    {
+        "text": "do a border",
+        "start": 1294.159,
+        "duration": 4.0
+    },
+    {
+        "text": "of this",
+        "start": 1295.44,
+        "duration": 2.719
+    },
+    {
+        "text": "uh solid and say like i don't know 30",
+        "start": 1298.88,
+        "duration": 4.48
+    },
+    {
+        "text": "pixels",
+        "start": 1302.24,
+        "duration": 4.559
+    },
+    {
+        "text": "32 pixels",
+        "start": 1303.36,
+        "duration": 3.439
+    },
+    {
+        "text": "uh do i need to do a box sizing is that",
+        "start": 1307.44,
+        "duration": 5.68
+    },
+    {
+        "text": "even box sizing",
+        "start": 1310.0,
+        "duration": 3.12
+    },
+    {
+        "text": "border boxes i mean to fix that yeah",
+        "start": 1314.08,
+        "duration": 7.04
+    },
+    {
+        "text": "um",
+        "start": 1318.64,
+        "duration": 2.48
+    },
+    {
+        "text": "oh but that doesn't fix it see i wanted",
+        "start": 1321.76,
+        "duration": 3.36
+    },
+    {
+        "text": "that to stick out the top",
+        "start": 1324.0,
+        "duration": 4.0
+    },
+    {
+        "text": "and not oh okay so width 100 then this",
+        "start": 1325.12,
+        "duration": 5.52
+    },
+    {
+        "text": "could be at 100",
+        "start": 1328.0,
+        "duration": 5.84
+    },
+    {
+        "text": "and 100.",
+        "start": 1330.64,
+        "duration": 3.2
+    },
+    {
+        "text": "no",
+        "start": 1338.0,
+        "duration": 2.159
+    },
+    {
+        "text": "no nope nope i mucked this whole thing",
+        "start": 1341.84,
+        "duration": 5.12
+    },
+    {
+        "text": "up big time this isn't going to work",
+        "start": 1344.24,
+        "duration": 4.08
+    },
+    {
+        "text": "i'm just waiting for kyle to tell me",
+        "start": 1346.96,
+        "duration": 2.02
+    },
+    {
+        "text": "when i'm out of time",
+        "start": 1348.32,
+        "duration": 3.2
+    },
+    {
+        "text": "[Laughter]",
+        "start": 1348.98,
+        "duration": 5.42
+    },
+    {
+        "text": "oh my goodness",
+        "start": 1351.52,
+        "duration": 2.88
+    },
+    {
+        "text": "because my idea was if i set that up",
+        "start": 1355.36,
+        "duration": 4.72
+    },
+    {
+        "text": "with a border",
+        "start": 1357.28,
+        "duration": 5.279
+    },
+    {
+        "text": "there to hide that maybe without the",
+        "start": 1360.08,
+        "duration": 4.479
+    },
+    {
+        "text": "border box it would work actually",
+        "start": 1362.559,
+        "duration": 2.491
+    },
+    {
+        "text": "um",
+        "start": 1364.559,
+        "duration": 3.55
+    },
+    {
+        "text": "[Music]",
+        "start": 1365.05,
+        "duration": 3.059
+    },
+    {
+        "text": "okay i'm just gonna try one more time",
+        "start": 1368.88,
+        "duration": 3.279
+    },
+    {
+        "text": "because that was closer to what i wanted",
+        "start": 1370.4,
+        "duration": 3.2
+    },
+    {
+        "text": "when i didn't have the box sizing on",
+        "start": 1372.159,
+        "duration": 3.601
+    },
+    {
+        "text": "there um",
+        "start": 1373.6,
+        "duration": 5.439
+    },
+    {
+        "text": "but then it screws up this it's like",
+        "start": 1375.76,
+        "duration": 4.72
+    },
+    {
+        "text": "here i need to do a calc",
+        "start": 1379.039,
+        "duration": 5.201
+    },
+    {
+        "text": "almost right of um",
+        "start": 1380.48,
+        "duration": 8.16
+    },
+    {
+        "text": "80 minus",
+        "start": 1384.24,
+        "duration": 7.679
+    },
+    {
+        "text": "what was it 32 pixel i mean whatever um",
+        "start": 1388.64,
+        "duration": 4.64
+    },
+    {
+        "text": "and then i need the same thing for my",
+        "start": 1391.919,
+        "duration": 3.281
+    },
+    {
+        "text": "height",
+        "start": 1393.28,
+        "duration": 4.16
+    },
+    {
+        "text": "and it should be a circle at least ah",
+        "start": 1395.2,
+        "duration": 3.599
+    },
+    {
+        "text": "i'm out of time",
+        "start": 1397.44,
+        "duration": 3.599
+    },
+    {
+        "text": "not even close that was a complete",
+        "start": 1398.799,
+        "duration": 4.161
+    },
+    {
+        "text": "complete complete disaster",
+        "start": 1401.039,
+        "duration": 3.361
+    },
+    {
+        "text": "okay here we go we have to create",
+        "start": 1402.96,
+        "duration": 3.12
+    },
+    {
+        "text": "supposedly what the letter b is to me",
+        "start": 1404.4,
+        "duration": 2.96
+    },
+    {
+        "text": "looks like a few circles but",
+        "start": 1406.08,
+        "duration": 3.04
+    },
+    {
+        "text": "we'll call it the letter b so let's get",
+        "start": 1407.36,
+        "duration": 3.76
+    },
+    {
+        "text": "the body in place",
+        "start": 1409.12,
+        "duration": 3.039
+    },
+    {
+        "text": "always a good place to start because",
+        "start": 1411.12,
+        "duration": 3.36
+    },
+    {
+        "text": "that's like 90 of your code right there",
+        "start": 1412.159,
+        "duration": 4.0
+    },
+    {
+        "text": "and then for our first div we're going",
+        "start": 1414.48,
+        "duration": 3.6
+    },
+    {
+        "text": "to give it this background here that we",
+        "start": 1416.159,
+        "duration": 2.721
+    },
+    {
+        "text": "just copied",
+        "start": 1418.08,
+        "duration": 2.56
+    },
+    {
+        "text": "i want to make this one a complete",
+        "start": 1418.88,
+        "duration": 4.08
+    },
+    {
+        "text": "circle so we'll say",
+        "start": 1420.64,
+        "duration": 7.039
+    },
+    {
+        "text": "order radius 50",
+        "start": 1422.96,
+        "duration": 6.48
+    },
+    {
+        "text": "and also to make these all centered i'm",
+        "start": 1427.679,
+        "duration": 3.281
+    },
+    {
+        "text": "just going to do display",
+        "start": 1429.44,
+        "duration": 5.119
+    },
+    {
+        "text": "flex justify content",
+        "start": 1430.96,
+        "duration": 7.28
+    },
+    {
+        "text": "center and align items center",
+        "start": 1434.559,
+        "duration": 5.6
+    },
+    {
+        "text": "there we go now we have that in the dead",
+        "start": 1438.24,
+        "duration": 2.96
+    },
+    {
+        "text": "center and i just need to make this",
+        "start": 1440.159,
+        "duration": 3.201
+    },
+    {
+        "text": "quite a bit bigger i'm guessing like 200",
+        "start": 1441.2,
+        "duration": 3.839
+    },
+    {
+        "text": "pixels",
+        "start": 1443.36,
+        "duration": 4.319
+    },
+    {
+        "text": "let's see okay that looks perfect that",
+        "start": 1445.039,
+        "duration": 4.24
+    },
+    {
+        "text": "is exactly the size we need so now what",
+        "start": 1447.679,
+        "duration": 2.801
+    },
+    {
+        "text": "i need is another div",
+        "start": 1449.279,
+        "duration": 2.481
+    },
+    {
+        "text": "this is going to be the inner circle so",
+        "start": 1450.48,
+        "duration": 4.72
+    },
+    {
+        "text": "we'll say class of inner",
+        "start": 1451.76,
+        "duration": 5.2
+    },
+    {
+        "text": "close off that div really wish this had",
+        "start": 1455.2,
+        "duration": 3.599
+    },
+    {
+        "text": "auto closing of tags that'd be nice",
+        "start": 1456.96,
+        "duration": 6.079
+    },
+    {
+        "text": "so now we have dot inner i'm guessing",
+        "start": 1458.799,
+        "duration": 5.841
+    },
+    {
+        "text": "it's going to be a slightly smaller size",
+        "start": 1463.039,
+        "duration": 2.961
+    },
+    {
+        "text": "of course so we'll give it the same",
+        "start": 1464.64,
+        "duration": 2.8
+    },
+    {
+        "text": "background",
+        "start": 1466.0,
+        "duration": 3.039
+    },
+    {
+        "text": "we're just going to position all these",
+        "start": 1467.44,
+        "duration": 3.76
+    },
+    {
+        "text": "absolute so we'll say position",
+        "start": 1469.039,
+        "duration": 6.24
+    },
+    {
+        "text": "absolute all of our divs",
+        "start": 1471.2,
+        "duration": 8.0
+    },
+    {
+        "text": "uh okay background is that",
+        "start": 1475.279,
+        "duration": 6.321
+    },
+    {
+        "text": "and we need the width here to be 100",
+        "start": 1479.2,
+        "duration": 3.76
+    },
+    {
+        "text": "pixels in the height",
+        "start": 1481.6,
+        "duration": 3.04
+    },
+    {
+        "text": "100 pixels that's my guess on what the",
+        "start": 1482.96,
+        "duration": 3.599
+    },
+    {
+        "text": "size is yep that's the exact size",
+        "start": 1484.64,
+        "duration": 4.88
+    },
+    {
+        "text": "this one looks like super easy and it",
+        "start": 1486.559,
+        "duration": 4.561
+    },
+    {
+        "text": "depresses me because i have no idea what",
+        "start": 1489.52,
+        "duration": 2.56
+    },
+    {
+        "text": "to do",
+        "start": 1491.12,
+        "duration": 3.84
+    },
+    {
+        "text": "uh we want my body set the background on",
+        "start": 1492.08,
+        "duration": 3.36
+    },
+    {
+        "text": "there that's",
+        "start": 1494.96,
+        "duration": 3.44
+    },
+    {
+        "text": "you know back you start with a quick win",
+        "start": 1495.44,
+        "duration": 4.239
+    },
+    {
+        "text": "start with the things that you know how",
+        "start": 1498.4,
+        "duration": 1.84
+    },
+    {
+        "text": "to do",
+        "start": 1499.679,
+        "duration": 2.801
+    },
+    {
+        "text": "uh we want the dollar sign not a dollar",
+        "start": 1500.24,
+        "duration": 3.36
+    },
+    {
+        "text": "so i'm going to pound",
+        "start": 1502.48,
+        "duration": 2.96
+    },
+    {
+        "text": "i'm so not used to the pound sign being",
+        "start": 1503.6,
+        "duration": 3.12
+    },
+    {
+        "text": "included in there",
+        "start": 1505.44,
+        "duration": 4.96
+    },
+    {
+        "text": "okay so this is not too bad in that it's",
+        "start": 1506.72,
+        "duration": 5.52
+    },
+    {
+        "text": "easy to get a circle",
+        "start": 1510.4,
+        "duration": 4.48
+    },
+    {
+        "text": "and a circle inside a circle it's this",
+        "start": 1512.24,
+        "duration": 3.6
+    },
+    {
+        "text": "part that's",
+        "start": 1514.88,
+        "duration": 2.48
+    },
+    {
+        "text": "really throwing me for a loop but we",
+        "start": 1515.84,
+        "duration": 2.719
+    },
+    {
+        "text": "want to start with the easy wins so",
+        "start": 1517.36,
+        "duration": 2.4
+    },
+    {
+        "text": "let's just grab this",
+        "start": 1518.559,
+        "duration": 3.281
+    },
+    {
+        "text": "and we'll put that and actually i think",
+        "start": 1519.76,
+        "duration": 4.159
+    },
+    {
+        "text": "what i'm going to do for this one",
+        "start": 1521.84,
+        "duration": 5.68
+    },
+    {
+        "text": "is have a div with a uh can i do emmet",
+        "start": 1523.919,
+        "duration": 5.12
+    },
+    {
+        "text": "in here",
+        "start": 1527.52,
+        "duration": 5.039
+    },
+    {
+        "text": "oops whoops whoops whoops e",
+        "start": 1529.039,
+        "duration": 5.52
+    },
+    {
+        "text": "apparently not okay oh that's my emoji",
+        "start": 1532.559,
+        "duration": 4.24
+    },
+    {
+        "text": "picker what am i pushing okay no",
+        "start": 1534.559,
+        "duration": 6.281
+    },
+    {
+        "text": "uh so let's just do a div and we'll do",
+        "start": 1536.799,
+        "duration": 7.041
+    },
+    {
+        "text": "a div actually i'm just gonna do a div",
+        "start": 1540.84,
+        "duration": 3.719
+    },
+    {
+        "text": "we'll just do this",
+        "start": 1543.84,
+        "duration": 2.4
+    },
+    {
+        "text": "close div i might have to give these",
+        "start": 1544.559,
+        "duration": 3.441
+    },
+    {
+        "text": "classes or find any better way to do",
+        "start": 1546.24,
+        "duration": 4.08
+    },
+    {
+        "text": "this eventually but",
+        "start": 1548.0,
+        "duration": 3.679
+    },
+    {
+        "text": "yeah we're gonna start with it like this",
+        "start": 1550.32,
+        "duration": 4.239
+    },
+    {
+        "text": "um so this one",
+        "start": 1551.679,
+        "duration": 4.081
+    },
+    {
+        "text": "no this isn't gonna work okay we're",
+        "start": 1554.559,
+        "duration": 3.12
+    },
+    {
+        "text": "gonna give this one a class class",
+        "start": 1555.76,
+        "duration": 6.159
+    },
+    {
+        "text": "is equal to uh outer",
+        "start": 1557.679,
+        "duration": 4.24
+    },
+    {
+        "text": "so that this can become my outer",
+        "start": 1562.88,
+        "duration": 7.36
+    },
+    {
+        "text": "and then let's just do any margin",
+        "start": 1566.4,
+        "duration": 5.92
+    },
+    {
+        "text": "uh with height let's just do border",
+        "start": 1570.24,
+        "duration": 3.76
+    },
+    {
+        "text": "radius first i guess border",
+        "start": 1572.32,
+        "duration": 5.599
+    },
+    {
+        "text": "radius will be 50",
+        "start": 1574.0,
+        "duration": 5.36
+    },
+    {
+        "text": "um and then i want to get it in the",
+        "start": 1577.919,
+        "duration": 2.801
+    },
+    {
+        "text": "middle it needs to be bigger i think",
+        "start": 1579.36,
+        "duration": 2.88
+    },
+    {
+        "text": "it's almost like 200 right",
+        "start": 1580.72,
+        "duration": 6.0
+    },
+    {
+        "text": "that looks maybe a little smaller um",
+        "start": 1582.24,
+        "duration": 6.72
+    },
+    {
+        "text": "i'm just gonna use margin just margin",
+        "start": 1586.72,
+        "duration": 3.439
+    },
+    {
+        "text": "left or no",
+        "start": 1588.96,
+        "duration": 4.56
+    },
+    {
+        "text": "margin like 30 pixels",
+        "start": 1590.159,
+        "duration": 6.801
+    },
+    {
+        "text": "auto should maybe do the trick",
+        "start": 1593.52,
+        "duration": 5.6
+    },
+    {
+        "text": "i think the the top needs to be a lot",
+        "start": 1596.96,
+        "duration": 4.719
+    },
+    {
+        "text": "bigger 60.",
+        "start": 1599.12,
+        "duration": 4.0
+    },
+    {
+        "text": "this is the i have so much trouble",
+        "start": 1601.679,
+        "duration": 3.441
+    },
+    {
+        "text": "getting things in these challenge",
+        "start": 1603.12,
+        "duration": 4.32
+    },
+    {
+        "text": "still like line up that looks pretty",
+        "start": 1605.12,
+        "duration": 4.159
+    },
+    {
+        "text": "good okay i think that's good and then i",
+        "start": 1607.44,
+        "duration": 3.2
+    },
+    {
+        "text": "can choose this one let's give that a",
+        "start": 1609.279,
+        "duration": 2.0
+    },
+    {
+        "text": "class",
+        "start": 1610.64,
+        "duration": 4.48
+    },
+    {
+        "text": "of uh inner",
+        "start": 1611.279,
+        "duration": 7.52
+    },
+    {
+        "text": "so then my inner",
+        "start": 1615.12,
+        "duration": 5.12
+    },
+    {
+        "text": "can what can we do with that that one",
+        "start": 1618.799,
+        "duration": 3.521
+    },
+    {
+        "text": "gets the background color on it again so",
+        "start": 1620.24,
+        "duration": 3.039
+    },
+    {
+        "text": "we can throw that",
+        "start": 1622.32,
+        "duration": 5.52
+    },
+    {
+        "text": "you got actual background background",
+        "start": 1623.279,
+        "duration": 4.561
+    },
+    {
+        "text": "and then what do we need to do we need",
+        "start": 1628.48,
+        "duration": 3.28
+    },
+    {
+        "text": "to give it a width of",
+        "start": 1629.76,
+        "duration": 5.279
+    },
+    {
+        "text": "say is it like 50 of the parent",
+        "start": 1631.76,
+        "duration": 5.919
+    },
+    {
+        "text": "and then a height 50 we could try and",
+        "start": 1635.039,
+        "duration": 5.281
+    },
+    {
+        "text": "see what happens here height 50 percent",
+        "start": 1637.679,
+        "duration": 4.961
+    },
+    {
+        "text": "um and then a margin or you know what",
+        "start": 1640.32,
+        "duration": 3.04
+    },
+    {
+        "text": "i'm going to do",
+        "start": 1642.64,
+        "duration": 4.32
+    },
+    {
+        "text": "this could work um display",
+        "start": 1643.36,
+        "duration": 6.72
+    },
+    {
+        "text": "grid and then we knew it place",
+        "start": 1646.96,
+        "duration": 7.199
+    },
+    {
+        "text": "items center that should",
+        "start": 1650.08,
+        "duration": 7.28
+    },
+    {
+        "text": "not of course it's not working i didn't",
+        "start": 1654.159,
+        "duration": 5.441
+    },
+    {
+        "text": "why is that not working",
+        "start": 1657.36,
+        "duration": 6.88
+    },
+    {
+        "text": "that should work okay it's not working",
+        "start": 1659.6,
+        "duration": 4.64
+    },
+    {
+        "text": "border uh radius of 50",
+        "start": 1666.96,
+        "duration": 5.68
+    },
+    {
+        "text": "50.",
+        "start": 1670.24,
+        "duration": 2.4
+    },
+    {
+        "text": "why'd the place item center not work i",
+        "start": 1673.919,
+        "duration": 3.281
+    },
+    {
+        "text": "could do",
+        "start": 1676.24,
+        "duration": 2.48
+    },
+    {
+        "text": "what if i did a display flex then",
+        "start": 1677.2,
+        "duration": 3.64
+    },
+    {
+        "text": "display",
+        "start": 1678.72,
+        "duration": 4.88
+    },
+    {
+        "text": "flex yo i just want this on the parent",
+        "start": 1680.84,
+        "duration": 4.92
+    },
+    {
+        "text": "i just want to make sure because then on",
+        "start": 1683.6,
+        "duration": 3.76
+    },
+    {
+        "text": "the inner then i can just say margin",
+        "start": 1685.76,
+        "duration": 2.96
+    },
+    {
+        "text": "of auto i just want to make it easy to",
+        "start": 1687.36,
+        "duration": 4.4
+    },
+    {
+        "text": "get it in the middle okay that worked",
+        "start": 1688.72,
+        "duration": 4.88
+    },
+    {
+        "text": "uh that looks perfect actually super",
+        "start": 1691.76,
+        "duration": 3.76
+    },
+    {
+        "text": "that was 50 now is the part i don't know",
+        "start": 1693.6,
+        "duration": 4.16
+    },
+    {
+        "text": "what to do",
+        "start": 1695.52,
+        "duration": 4.0
+    },
+    {
+        "text": "now all we need to do is do this top",
+        "start": 1697.76,
+        "duration": 3.519
+    },
+    {
+        "text": "section up here which is going to",
+        "start": 1699.52,
+        "duration": 2.879
+    },
+    {
+        "text": "require us to",
+        "start": 1701.279,
+        "duration": 3.12
+    },
+    {
+        "text": "create a square that covers off that",
+        "start": 1702.399,
+        "duration": 3.921
+    },
+    {
+        "text": "section so we're going to have",
+        "start": 1704.399,
+        "duration": 5.681
+    },
+    {
+        "text": "dot square this will make a little bit",
+        "start": 1706.32,
+        "duration": 5.359
+    },
+    {
+        "text": "of sense once i get the square in place",
+        "start": 1710.08,
+        "duration": 4.959
+    },
+    {
+        "text": "so a new div class is equal to",
+        "start": 1711.679,
+        "duration": 7.281
+    },
+    {
+        "text": "square just like that",
+        "start": 1715.039,
+        "duration": 5.921
+    },
+    {
+        "text": "and for this square i'm going to move a",
+        "start": 1718.96,
+        "duration": 3.52
+    },
+    {
+        "text": "lot of these styles out",
+        "start": 1720.96,
+        "duration": 3.04
+    },
+    {
+        "text": "none of these styles are applicable to",
+        "start": 1722.48,
+        "duration": 2.72
+    },
+    {
+        "text": "all of our divs so we're going to call",
+        "start": 1724.0,
+        "duration": 1.52
+    },
+    {
+        "text": "this",
+        "start": 1725.2,
+        "duration": 3.68
+    },
+    {
+        "text": "big we'll call it outer and then we'll",
+        "start": 1725.52,
+        "duration": 5.759
+    },
+    {
+        "text": "give this a class",
+        "start": 1728.88,
+        "duration": 4.799
+    },
+    {
+        "text": "of outer there we go and now for our",
+        "start": 1731.279,
+        "duration": 3.52
+    },
+    {
+        "text": "square we want the",
+        "start": 1733.679,
+        "duration": 3.161
+    },
+    {
+        "text": "background color here so we'll say",
+        "start": 1734.799,
+        "duration": 3.76
+    },
+    {
+        "text": "background",
+        "start": 1736.84,
+        "duration": 4.68
+    },
+    {
+        "text": "is that and all we need to do is just",
+        "start": 1738.559,
+        "duration": 4.801
+    },
+    {
+        "text": "move it up so it covers up this top",
+        "start": 1741.52,
+        "duration": 3.92
+    },
+    {
+        "text": "section of our circle",
+        "start": 1743.36,
+        "duration": 5.28
+    },
+    {
+        "text": "that should be all we need to do yeah so",
+        "start": 1745.44,
+        "duration": 4.08
+    },
+    {
+        "text": "let's just say",
+        "start": 1748.64,
+        "duration": 4.399
+    },
+    {
+        "text": "that our top is going to be",
+        "start": 1749.52,
+        "duration": 5.039
+    },
+    {
+        "text": "or we'll just use margin instead so",
+        "start": 1753.039,
+        "duration": 4.24
+    },
+    {
+        "text": "we'll say margin",
+        "start": 1754.559,
+        "duration": 7.12
+    },
+    {
+        "text": "top is like negative uh",
+        "start": 1757.279,
+        "duration": 6.241
+    },
+    {
+        "text": "what is it 200 pixels so we'll move it",
+        "start": 1761.679,
+        "duration": 4.48
+    },
+    {
+        "text": "50 pixels let's see",
+        "start": 1763.52,
+        "duration": 4.639
+    },
+    {
+        "text": "that didn't do anything square",
+        "start": 1766.159,
+        "duration": 3.841
+    },
+    {
+        "text": "background",
+        "start": 1768.159,
+        "duration": 4.0
+    },
+    {
+        "text": "oh of course we first need to take our",
+        "start": 1770.0,
+        "duration": 4.88
+    },
+    {
+        "text": "border radius and put it on our inner",
+        "start": 1772.159,
+        "duration": 4.161
+    },
+    {
+        "text": "now for some reason my square is not",
+        "start": 1774.88,
+        "duration": 3.6
+    },
+    {
+        "text": "showing up oh i don't have a width or",
+        "start": 1776.32,
+        "duration": 3.2
+    },
+    {
+        "text": "height so we'll say width",
+        "start": 1778.48,
+        "duration": 4.16
+    },
+    {
+        "text": "is 100 pixels height",
+        "start": 1779.52,
+        "duration": 6.96
+    },
+    {
+        "text": "is 100 pixels that should show up now",
+        "start": 1782.64,
+        "duration": 7.84
+    },
+    {
+        "text": "of course it's not see if i'm missing",
+        "start": 1786.48,
+        "duration": 6.24
+    },
+    {
+        "text": "anything margin top negative 50 pixels",
+        "start": 1790.48,
+        "duration": 3.12
+    },
+    {
+        "text": "we'll just remove that",
+        "start": 1792.72,
+        "duration": 2.559
+    },
+    {
+        "text": "see if we can get it show up of course",
+        "start": 1793.6,
+        "duration": 3.439
+    },
+    {
+        "text": "it's not give it a different color to",
+        "start": 1795.279,
+        "duration": 2.721
+    },
+    {
+        "text": "really make it",
+        "start": 1797.039,
+        "duration": 3.921
+    },
+    {
+        "text": "pop green",
+        "start": 1798.0,
+        "duration": 2.96
+    },
+    {
+        "text": "uh remove the margin just with the",
+        "start": 1801.44,
+        "duration": 3.2
+    },
+    {
+        "text": "height",
+        "start": 1803.919,
+        "duration": 4.081
+    },
+    {
+        "text": "and it's not showing up in a background",
+        "start": 1804.64,
+        "duration": 5.36
+    },
+    {
+        "text": "and it's got the position absolute it",
+        "start": 1808.0,
+        "duration": 3.36
+    },
+    {
+        "text": "should be there",
+        "start": 1810.0,
+        "duration": 2.96
+    },
+    {
+        "text": "it really should be there i don't know",
+        "start": 1811.36,
+        "duration": 2.72
+    },
+    {
+        "text": "why it's not showing up let's get rid of",
+        "start": 1812.96,
+        "duration": 2.88
+    },
+    {
+        "text": "these yeah it's just not there",
+        "start": 1814.08,
+        "duration": 5.44
+    },
+    {
+        "text": "square i spelled square wrong",
+        "start": 1815.84,
+        "duration": 3.68
+    },
+    {
+        "text": "okay now we can go i'd wasted some time",
+        "start": 1820.0,
+        "duration": 3.84
+    },
+    {
+        "text": "margin top",
+        "start": 1822.96,
+        "duration": 4.319
+    },
+    {
+        "text": "negative 50 pixels",
+        "start": 1823.84,
+        "duration": 6.079
+    },
+    {
+        "text": "negative 100 pixels yep that's what we",
+        "start": 1827.279,
+        "duration": 3.52
+    },
+    {
+        "text": "need",
+        "start": 1829.919,
+        "duration": 4.321
+    },
+    {
+        "text": "margin left negative 100 pixels",
+        "start": 1830.799,
+        "duration": 5.841
+    },
+    {
+        "text": "and we'll give it the correct color and",
+        "start": 1834.24,
+        "duration": 3.36
+    },
+    {
+        "text": "okay for",
+        "start": 1836.64,
+        "duration": 2.96
+    },
+    {
+        "text": "this part i'm going to use another div",
+        "start": 1837.6,
+        "duration": 3.52
+    },
+    {
+        "text": "which i'm going to put inside my inner i",
+        "start": 1839.6,
+        "duration": 2.4
+    },
+    {
+        "text": "guess",
+        "start": 1841.12,
+        "duration": 5.2
+    },
+    {
+        "text": "we'll call it div class is equal to",
+        "start": 1842.0,
+        "duration": 7.52
+    },
+    {
+        "text": "inner inner because names don't really",
+        "start": 1846.32,
+        "duration": 4.079
+    },
+    {
+        "text": "matter here",
+        "start": 1849.52,
+        "duration": 3.12
+    },
+    {
+        "text": "close div sorry for the really messy",
+        "start": 1850.399,
+        "duration": 3.681
+    },
+    {
+        "text": "html",
+        "start": 1852.64,
+        "duration": 3.519
+    },
+    {
+        "text": "um but we're we're on a challenge here",
+        "start": 1854.08,
+        "duration": 3.439
+    },
+    {
+        "text": "so i'm not worrying too much about",
+        "start": 1856.159,
+        "duration": 2.561
+    },
+    {
+        "text": "naming or anything",
+        "start": 1857.519,
+        "duration": 4.4
+    },
+    {
+        "text": "or inner inner i should have called it",
+        "start": 1858.72,
+        "duration": 4.64
+    },
+    {
+        "text": "like inner bar",
+        "start": 1861.919,
+        "duration": 4.64
+    },
+    {
+        "text": "um we'll do a background",
+        "start": 1863.36,
+        "duration": 5.199
+    },
+    {
+        "text": "of inherit so i don't have to mess",
+        "start": 1866.559,
+        "duration": 4.72
+    },
+    {
+        "text": "around or copy anything",
+        "start": 1868.559,
+        "duration": 4.401
+    },
+    {
+        "text": "a width is going to be 50 percent",
+        "start": 1871.279,
+        "duration": 3.041
+    },
+    {
+        "text": "because i want it looks like it's",
+        "start": 1872.96,
+        "duration": 3.839
+    },
+    {
+        "text": "50 of its you know the width here is",
+        "start": 1874.32,
+        "duration": 3.199
+    },
+    {
+        "text": "like 50",
+        "start": 1876.799,
+        "duration": 3.36
+    },
+    {
+        "text": "of that circle right and then what do i",
+        "start": 1877.519,
+        "duration": 3.921
+    },
+    {
+        "text": "want to do",
+        "start": 1880.159,
+        "duration": 3.201
+    },
+    {
+        "text": "with this 50 and then let's just say the",
+        "start": 1881.44,
+        "duration": 3.119
+    },
+    {
+        "text": "height",
+        "start": 1883.36,
+        "duration": 3.12
+    },
+    {
+        "text": "it can be anything 100 pixels should be",
+        "start": 1884.559,
+        "duration": 3.041
+    },
+    {
+        "text": "fine",
+        "start": 1886.48,
+        "duration": 5.199
+    },
+    {
+        "text": "um and then i'm going to do a transform",
+        "start": 1887.6,
+        "duration": 6.48
+    },
+    {
+        "text": "translate y because i want to move it up",
+        "start": 1891.679,
+        "duration": 3.921
+    },
+    {
+        "text": "and down and i should be able to do a",
+        "start": 1894.08,
+        "duration": 3.199
+    },
+    {
+        "text": "negative one hundred percent",
+        "start": 1895.6,
+        "duration": 4.16
+    },
+    {
+        "text": "too much negative fifty percent there we",
+        "start": 1897.279,
+        "duration": 5.441
+    },
+    {
+        "text": "go now all we need to do is do our line",
+        "start": 1899.76,
+        "duration": 4.399
+    },
+    {
+        "text": "let's make sure i spell a line correctly",
+        "start": 1902.72,
+        "duration": 4.079
+    },
+    {
+        "text": "this time",
+        "start": 1904.159,
+        "duration": 6.081
+    },
+    {
+        "text": "l i and e and we need to have",
+        "start": 1906.799,
+        "duration": 6.24
+    },
+    {
+        "text": "this background",
+        "start": 1910.24,
+        "duration": 2.799
+    },
+    {
+        "text": "we need to have a height of 100 pixels",
+        "start": 1913.44,
+        "duration": 5.92
+    },
+    {
+        "text": "a width of 100 pixels and i think the",
+        "start": 1917.6,
+        "duration": 4.319
+    },
+    {
+        "text": "height actually needs to be 200 pixels",
+        "start": 1919.36,
+        "duration": 5.6
+    },
+    {
+        "text": "and we're going to copy this margin",
+        "start": 1921.919,
+        "duration": 4.721
+    },
+    {
+        "text": "okay so our width definitely does not",
+        "start": 1924.96,
+        "duration": 2.88
+    },
+    {
+        "text": "need to be that big it needs to be 50",
+        "start": 1926.64,
+        "duration": 2.8
+    },
+    {
+        "text": "pixels",
+        "start": 1927.84,
+        "duration": 5.0
+    },
+    {
+        "text": "and our margin left needs to be 125",
+        "start": 1929.44,
+        "duration": 7.42
+    },
+    {
+        "text": "115 and our margin top needs to be 150",
+        "start": 1932.84,
+        "duration": 6.24
+    },
+    {
+        "text": "[Music]",
+        "start": 1936.86,
+        "duration": 4.699
+    },
+    {
+        "text": "175",
+        "start": 1939.08,
+        "duration": 5.16
+    },
+    {
+        "text": "180",
+        "start": 1941.559,
+        "duration": 6.041
+    },
+    {
+        "text": "90 i'll just say 200 there we go",
+        "start": 1944.24,
+        "duration": 5.12
+    },
+    {
+        "text": "and then the height obviously doesn't",
+        "start": 1947.6,
+        "duration": 4.88
+    },
+    {
+        "text": "need to be quite that large",
+        "start": 1949.36,
+        "duration": 3.12
+    },
+    {
+        "text": "oh that looks perfect let's submit that",
+        "start": 1952.72,
+        "duration": 3.6
+    },
+    {
+        "text": "91 match what am i missing i i literally",
+        "start": 1957.84,
+        "duration": 3.839
+    },
+    {
+        "text": "can't",
+        "start": 1961.2,
+        "duration": 4.079
+    },
+    {
+        "text": "tell a difference between these images",
+        "start": 1961.679,
+        "duration": 3.6
+    },
+    {
+        "text": "what the heck how am i so far off",
+        "start": 1966.64,
+        "duration": 3.68
+    },
+    {
+        "text": "am i just crazy i'm going to try",
+        "start": 1972.48,
+        "duration": 3.52
+    },
+    {
+        "text": "resubmitting that i i cannot",
+        "start": 1973.76,
+        "duration": 3.519
+    },
+    {
+        "text": "see a single difference unless i have",
+        "start": 1976.0,
+        "duration": 2.96
+    },
+    {
+        "text": "like some colors wrong but the colors",
+        "start": 1977.279,
+        "duration": 3.76
+    },
+    {
+        "text": "look the same",
+        "start": 1978.96,
+        "duration": 3.52
+    },
+    {
+        "text": "like when i hover over this maybe is",
+        "start": 1981.039,
+        "duration": 3.681
+    },
+    {
+        "text": "like slightly inset from where it needs",
+        "start": 1982.48,
+        "duration": 3.52
+    },
+    {
+        "text": "to be",
+        "start": 1984.72,
+        "duration": 5.36
+    },
+    {
+        "text": "oh gosh that looks close oh",
+        "start": 1986.0,
+        "duration": 7.519
+    },
+    {
+        "text": "okay okay",
+        "start": 1990.08,
+        "duration": 4.959
+    },
+    {
+        "text": "you're gonna love me we have an inner",
+        "start": 1993.519,
+        "duration": 4.961
+    },
+    {
+        "text": "inner i'm gonna copy you",
+        "start": 1995.039,
+        "duration": 5.441
+    },
+    {
+        "text": "copy that and inside inner inner i'm",
+        "start": 1998.48,
+        "duration": 4.36
+    },
+    {
+        "text": "gonna put an inner inner",
+        "start": 2000.48,
+        "duration": 5.679
+    },
+    {
+        "text": "inner enter enter",
+        "start": 2002.84,
+        "duration": 4.92
+    },
+    {
+        "text": "which is going to have this so inner",
+        "start": 2006.159,
+        "duration": 4.081
+    },
+    {
+        "text": "inner inner",
+        "start": 2007.76,
+        "duration": 2.48
+    },
+    {
+        "text": "this you know when you have no time to",
+        "start": 2011.6,
+        "duration": 4.319
+    },
+    {
+        "text": "spend on naming your classes",
+        "start": 2013.36,
+        "duration": 4.799
+    },
+    {
+        "text": "inner inner inner so let's just start",
+        "start": 2015.919,
+        "duration": 4.561
+    },
+    {
+        "text": "with my background",
+        "start": 2018.159,
+        "duration": 4.721
+    },
+    {
+        "text": "uh i don't need the hashtag there we go",
+        "start": 2020.48,
+        "duration": 4.4
+    },
+    {
+        "text": "um",
+        "start": 2022.88,
+        "duration": 5.039
+    },
+    {
+        "text": "width is inherit",
+        "start": 2024.88,
+        "duration": 5.679
+    },
+    {
+        "text": "height can be inherit i guess in hair i",
+        "start": 2027.919,
+        "duration": 5.441
+    },
+    {
+        "text": "don't know if this is gonna work inherit",
+        "start": 2030.559,
+        "duration": 4.561
+    },
+    {
+        "text": "okay so i got my bar and then i just",
+        "start": 2033.36,
+        "duration": 3.439
+    },
+    {
+        "text": "want to do a transform",
+        "start": 2035.12,
+        "duration": 4.799
+    },
+    {
+        "text": "translate x now",
+        "start": 2036.799,
+        "duration": 6.961
+    },
+    {
+        "text": "of negative 10",
+        "start": 2039.919,
+        "duration": 6.321
+    },
+    {
+        "text": "10 pixels oh wait no it's way too small",
+        "start": 2043.76,
+        "duration": 3.2
+    },
+    {
+        "text": "uh width",
+        "start": 2046.24,
+        "duration": 4.56
+    },
+    {
+        "text": "is why is the width",
+        "start": 2046.96,
+        "duration": 6.48
+    },
+    {
+        "text": "oh it's inheriting a 50 percent uh 100",
+        "start": 2050.8,
+        "duration": 3.92
+    },
+    {
+        "text": "then we can just do that",
+        "start": 2053.44,
+        "duration": 4.159
+    },
+    {
+        "text": "okay and then this could be negative 100",
+        "start": 2054.72,
+        "duration": 4.32
+    },
+    {
+        "text": "percent",
+        "start": 2057.599,
+        "duration": 2.961
+    },
+    {
+        "text": "that looks good that looks good that",
+        "start": 2059.04,
+        "duration": 4.96
+    },
+    {
+        "text": "looks good submit",
+        "start": 2060.56,
+        "duration": 3.44
+    },
+    {
+        "text": "come on come on 100 match yes",
+        "start": 2064.159,
+        "duration": 4.801
+    },
+    {
+        "text": "i honestly didn't know how i was going",
+        "start": 2067.52,
+        "duration": 3.68
+    },
+    {
+        "text": "to do that one and my class names are a",
+        "start": 2068.96,
+        "duration": 3.04
+    },
+    {
+        "text": "complete mess",
+        "start": 2071.2,
+        "duration": 2.56
+    },
+    {
+        "text": "maybe instead of using flexbox to center",
+        "start": 2072.0,
+        "duration": 3.919
+    },
+    {
+        "text": "we'll just try",
+        "start": 2073.76,
+        "duration": 5.44
+    },
+    {
+        "text": "doing uh",
+        "start": 2075.919,
+        "duration": 4.561
+    },
+    {
+        "text": "we're just going to position all of them",
+        "start": 2079.2,
+        "duration": 2.8
+    },
+    {
+        "text": "in the dead center i guess so we'll just",
+        "start": 2080.48,
+        "duration": 9.359
+    },
+    {
+        "text": "wrap this in a container",
+        "start": 2082.0,
+        "duration": 7.839
+    },
+    {
+        "text": "this and then we'll do section",
+        "start": 2090.32,
+        "duration": 7.519
+    },
+    {
+        "text": "position absolute",
+        "start": 2094.48,
+        "duration": 7.52
+    },
+    {
+        "text": "i can spell position correctly",
+        "start": 2097.839,
+        "duration": 8.0
+    },
+    {
+        "text": "we go we'll say top is 100",
+        "start": 2102.0,
+        "duration": 8.8
+    },
+    {
+        "text": "pixels left is 100 pixels",
+        "start": 2105.839,
+        "duration": 9.28
+    },
+    {
+        "text": "this should be 50. absolute absolute and",
+        "start": 2110.8,
+        "duration": 5.6
+    },
+    {
+        "text": "now of course all of our other",
+        "start": 2115.119,
+        "duration": 2.0
+    },
+    {
+        "text": "measurements are",
+        "start": 2116.4,
+        "duration": 2.56
+    },
+    {
+        "text": "off so we need to readjust everything to",
+        "start": 2117.119,
+        "duration": 3.441
+    },
+    {
+        "text": "make it in the center",
+        "start": 2118.96,
+        "duration": 2.639
+    },
+    {
+        "text": "we should be able to do it by just",
+        "start": 2120.56,
+        "duration": 2.799
+    },
+    {
+        "text": "saying like this is still going to use",
+        "start": 2121.599,
+        "duration": 4.561
+    },
+    {
+        "text": "flexbox though",
+        "start": 2123.359,
+        "duration": 2.801
+    },
+    {
+        "text": "justify content center",
+        "start": 2126.24,
+        "duration": 9.76
+    },
+    {
+        "text": "align items center",
+        "start": 2130.88,
+        "duration": 5.12
+    },
+    {
+        "text": "and let's change this to 200",
+        "start": 2136.72,
+        "duration": 4.96
+    },
+    {
+        "text": "150 200",
+        "start": 2141.92,
+        "duration": 3.919
+    },
+    {
+        "text": "this works",
+        "start": 2146.88,
+        "duration": 2.56
+    },
+    {
+        "text": "91.3 hey we got slightly closer and it's",
+        "start": 2150.32,
+        "duration": 3.84
+    },
+    {
+        "text": "still wrong",
+        "start": 2152.8,
+        "duration": 2.799
+    },
+    {
+        "text": "yeah this one is killing me because i",
+        "start": 2154.16,
+        "duration": 3.04
+    },
+    {
+        "text": "feel like i'm so close i know exactly",
+        "start": 2155.599,
+        "duration": 2.401
+    },
+    {
+        "text": "what to do",
+        "start": 2157.2,
+        "duration": 2.72
+    },
+    {
+        "text": "like the square versus the square versus",
+        "start": 2158.0,
+        "duration": 3.28
+    },
+    {
+        "text": "the inner circle in the outer circle but",
+        "start": 2159.92,
+        "duration": 1.76
+    },
+    {
+        "text": "i'm just",
+        "start": 2161.28,
+        "duration": 2.559
+    },
+    {
+        "text": "off by something something that's just",
+        "start": 2161.68,
+        "duration": 5.04
+    },
+    {
+        "text": "slightly different",
+        "start": 2163.839,
+        "duration": 2.881
+    },
+    {
+        "text": "i can see it moves like the inside moves",
+        "start": 2168.079,
+        "duration": 4.161
+    },
+    {
+        "text": "a little bit like my inner circle is",
+        "start": 2170.48,
+        "duration": 2.32
+    },
+    {
+        "text": "like",
+        "start": 2172.24,
+        "duration": 4.16
+    },
+    {
+        "text": "one tenth of a pixel off",
+        "start": 2172.8,
+        "duration": 3.6
+    },
+    {
+        "text": "that makes sense",
+        "start": 2177.28,
+        "duration": 2.799
+    },
+    {
+        "text": "i'm pretty sure it has to do with using",
+        "start": 2180.8,
+        "duration": 3.52
+    },
+    {
+        "text": "flexbox because it's like half pixels",
+        "start": 2182.16,
+        "duration": 4.0
+    },
+    {
+        "text": "essentially so we want this to be",
+        "start": 2184.32,
+        "duration": 5.2
+    },
+    {
+        "text": "50 100.",
+        "start": 2186.16,
+        "duration": 6.16
+    },
+    {
+        "text": "oh okay so let's try to position this",
+        "start": 2189.52,
+        "duration": 4.16
+    },
+    {
+        "text": "this is our outer ring this is already",
+        "start": 2192.32,
+        "duration": 2.56
+    },
+    {
+        "text": "in the right position",
+        "start": 2193.68,
+        "duration": 4.0
+    },
+    {
+        "text": "we need our inner ring to have a top of",
+        "start": 2194.88,
+        "duration": 4.4
+    },
+    {
+        "text": "50 pixels and a left",
+        "start": 2197.68,
+        "duration": 6.159
+    },
+    {
+        "text": "of 50 pixels our square here",
+        "start": 2199.28,
+        "duration": 6.559
+    },
+    {
+        "text": "we need to give it a top of zero",
+        "start": 2203.839,
+        "duration": 3.041
+    },
+    {
+        "text": "actually we can just remove",
+        "start": 2205.839,
+        "duration": 2.24
+    },
+    {
+        "text": "the margins that should put in the right",
+        "start": 2206.88,
+        "duration": 2.479
+    },
+    {
+        "text": "spot there we go and this one we can",
+        "start": 2208.079,
+        "duration": 2.641
+    },
+    {
+        "text": "remove the margins too",
+        "start": 2209.359,
+        "duration": 4.961
+    },
+    {
+        "text": "if this works i'm gonna be so upset",
+        "start": 2210.72,
+        "duration": 5.28
+    },
+    {
+        "text": "oh my gosh never again am i going to use",
+        "start": 2214.32,
+        "duration": 3.519
+    },
+    {
+        "text": "flexbox to center because that like",
+        "start": 2216.0,
+        "duration": 3.839
+    },
+    {
+        "text": "one tenth of a pixel is what killed me",
+        "start": 2217.839,
+        "duration": 3.52
+    },
+    {
+        "text": "well let's hope that kevin also sucked",
+        "start": 2219.839,
+        "duration": 2.641
+    },
+    {
+        "text": "because there's 20 seconds left so",
+        "start": 2221.359,
+        "duration": 2.0
+    },
+    {
+        "text": "hopefully he didn't finish",
+        "start": 2222.48,
+        "duration": 2.08
+    },
+    {
+        "text": "i'm looking forward to seeing how kyle",
+        "start": 2223.359,
+        "duration": 2.48
+    },
+    {
+        "text": "did and i think one of the most",
+        "start": 2224.56,
+        "duration": 2.88
+    },
+    {
+        "text": "interesting things with all of this",
+        "start": 2225.839,
+        "duration": 3.28
+    },
+    {
+        "text": "be seeing how we approach things",
+        "start": 2227.44,
+        "duration": 3.2
+    },
+    {
+        "text": "differently um",
+        "start": 2229.119,
+        "duration": 3.041
+    },
+    {
+        "text": "you know trying to get the same results",
+        "start": 2230.64,
+        "duration": 3.199
+    },
+    {
+        "text": "but just completely different approaches",
+        "start": 2232.16,
+        "duration": 3.04
+    },
+    {
+        "text": "to it i think that would be",
+        "start": 2233.839,
+        "duration": 2.881
+    },
+    {
+        "text": "fun to see so looking forward to seeing",
+        "start": 2235.2,
+        "duration": 3.28
+    },
+    {
+        "text": "how kyle did on this and how he did",
+        "start": 2236.72,
+        "duration": 2.639
+    },
+    {
+        "text": "everything as well",
+        "start": 2238.48,
+        "duration": 3.119
+    },
+    {
+        "text": "so the results are in and to nobody's",
+        "start": 2239.359,
+        "duration": 3.041
+    },
+    {
+        "text": "surprise",
+        "start": 2241.599,
+        "duration": 2.721
+    },
+    {
+        "text": "kevin beat me but it was quite a bit",
+        "start": 2242.4,
+        "duration": 3.52
+    },
+    {
+        "text": "closer than i expected it to be and it",
+        "start": 2244.32,
+        "duration": 2.16
+    },
+    {
+        "text": "was a",
+        "start": 2245.92,
+        "duration": 2.64
+    },
+    {
+        "text": "ton of fun so thank you very much kevin",
+        "start": 2246.48,
+        "duration": 3.599
+    },
+    {
+        "text": "for doing this with me i hope to do this",
+        "start": 2248.56,
+        "duration": 2.72
+    },
+    {
+        "text": "with other people in the future",
+        "start": 2250.079,
+        "duration": 2.561
+    },
+    {
+        "text": "especially if you enjoyed the video so",
+        "start": 2251.28,
+        "duration": 2.64
+    },
+    {
+        "text": "if you did make sure you let me know",
+        "start": 2252.64,
+        "duration": 2.64
+    },
+    {
+        "text": "down in the comments below",
+        "start": 2253.92,
+        "duration": 2.56
+    },
+    {
+        "text": "and also if you want to check out some",
+        "start": 2255.28,
+        "duration": 3.12
+    },
+    {
+        "text": "of my other css related content",
+        "start": 2256.48,
+        "duration": 3.52
+    },
+    {
+        "text": "click over here and subscribe to the",
+        "start": 2258.4,
+        "duration": 3.36
+    },
+    {
+        "text": "channel for more videos just like this",
+        "start": 2260.0,
+        "duration": 3.04
+    },
+    {
+        "text": "thank you very much for watching and",
+        "start": 2261.76,
+        "duration": 4.16
+    },
+    {
+        "text": "have a good day",
+        "start": 2263.04,
+        "duration": 2.88
+    }
+]
