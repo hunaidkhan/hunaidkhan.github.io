@@ -23,4 +23,4 @@ class HelloWorld(Resource):
 api.add_resource(HelloWorld, "/hello/<string:videoId>")
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
